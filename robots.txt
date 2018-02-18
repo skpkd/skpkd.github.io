@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /arc/
-Disallow: /sic/
-Sitemap: http://likewhoa.ru/sitemap.xml
-Host: likewhoa.ru
