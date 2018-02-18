@@ -1,0 +1,1246 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://likewhoa.ru/feed.xml" rel="self" type="application/atom+xml" /><link href="http://likewhoa.ru/" rel="alternate" type="text/html" /><updated>2018-02-18T15:28:21+06:00</updated><id>http://likewhoa.ru/</id><title type="html">Likewhoa</title><subtitle>Картинки и тексты.</subtitle><entry><title type="html">Февраль 2018</title><link href="http://likewhoa.ru/blog/feb-2018/" rel="alternate" type="text/html" title="Февраль 2018" /><published>2018-02-02T07:05:00+06:00</published><updated>2018-02-02T07:05:00+06:00</updated><id>http://likewhoa.ru/blog/feb-2018</id><content type="html" xml:base="http://likewhoa.ru/blog/feb-2018/">&lt;aside&gt;
+  &lt;h3&gt;Три биллборда на границе Эббинга, Миссури&lt;/h3&gt;
+  &lt;p&gt;Про фильм года пока рано говорить, но уж точно драма года. От начала до конца пропитанная яростью и сердитостью. Думаю, что единственное, что может помешать получить оскар — необычное для большого экрана количество расизма.&lt;/p&gt;
+
+  &lt;p&gt;Превосходный кастинг, очень цельные персонажи. Ленивые полицейские не очень-то ленивые, тупой Диксон не очень-то и тупой. Второстепенные персонажи тоже сильные: ярость Милдред поляризует их отношение к происходящему, которое они стремительно подкрепляют поступками.&lt;/p&gt;
+
+
+  &lt;p&gt;Самое больше впечатление произвел сеттинг фильма. На границе Миссури нет города Эббинг. Такого города нет вообще нигде. Прототипом стал город Сильва. Каждая сцена разыгрывается ровно в том месте, где и должна быть. Каждое дом и комната кажутся очень понятным, вторят характерам персонажей.&lt;/p&gt;
+
+  &lt;p&gt;Удачно снятые гугл стрит вью — здание полицейского участка в обычной жизни:&lt;/p&gt;
+
+&lt;/aside&gt;
+
+&lt;article&gt;
+&lt;div class=&quot;map-container&quot;&gt;
+&lt;iframe width=&quot;300&quot; height=&quot;800&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot; src=&quot;https://www.google.com/maps/embed?pb=!4v1517735551430!6m8!1m7!1sVq_wKM4jjMXbVNfiJAd4_A!2m2!1d35.3736482335053!2d-83.2235798029237!3f134.20762120126906!4f2.627634563248762!5f0.7820865974627469&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/article&gt;
+
+&lt;aside&gt;
+  &lt;p&gt;И этот же перекресток переснятый в момент съемок фильма. Офис Ebbing Advertising Company расположено ровно напротив. С той самым маркизой, все по честному:&lt;/p&gt;
+&lt;/aside&gt;
+
+&lt;article&gt;
+&lt;div class=&quot;map-container&quot;&gt;
+&lt;iframe width=&quot;300&quot; height=&quot;800&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot; src=&quot;https://www.google.com/maps/embed?pb=!4v1517735584468!6m8!1m7!1s2Z6kfCUOpgtPcwMKCsSQaA!2m2!1d35.3736230452279!2d-83.22353778418278!3f134.20762120126906!4f2.627634563248762!5f0.7820865974627469&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/article&gt;
+
+&lt;aside&gt;&lt;p&gt;Вероятно &lt;a href=&quot;https://www.google.ru/maps/@35.6463303,-82.3549522,3a,75y,52.79h,80.58t/data=!3m6!1e1!3m4!1s9D-0ITZ0WJKNuiQ63GY9rg!2e0!7i3328!8i1664?dcr=0&quot;&gt;то место, где стояли билборды&lt;/a&gt; и &lt;a href=&quot;https://www.google.ru/maps/@35.3688138,-83.2515579,3a,61.5y,223.88h,91.52t/data=!3m7!1e1!3m5!1sW8Xle0I63Ve7folRAVEk_g!2e0!6s%2F%2Fgeo3.ggpht.com%2Fcbk%3Fpanoid%3DW8Xle0I63Ve7folRAVEk_g%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D331.49094%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656?dcr=0&quot;&gt;магазин сувениров Милдред&lt;/a&gt;.&lt;/p&gt;&lt;/aside&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+  .map-container {
+  width: 100%;
+}
+.map-container iframe{
+  width: 100%;
+  display: block;
+  pointer-events: none;
+  position: relative; /* IE needs a position other than static */
+}
+.map-container iframe.clicked{
+  pointer-events: auto;
+}
+&lt;/style&gt;
+
+
+
+
+
+
+
+&lt;aside&gt;
+  &lt;p&gt;Странный монтаж на сцене оленя, где его сперва показывают очень коротко: это был cgi-олень и почему-то на первых кадрах он был сделан очень неаккуратно, вплоть до промаха со светом. Дальше все нормализовалось. Мартин сам рисовал раскадровки, очень подробные, но уж очень схематичные. Настолько, что Девис до последнего был уверен, что это будет сцена с кроликом.&lt;/p&gt;
+  &lt;p&gt;Как и в Брюгге и Психопатах, было очень мало дублей. Сцену со сложным блокингом, где Диксон идет в офис Уэлби, бьет его в лицо, выбрасывает из окна, бьет секретаршу и возвращается в участок, сняли с третьего дубля. Снимали на Arri Alexa XT, с линзами Е и С, формат 2.35:1.&lt;/p&gt;
+&lt;/aside&gt;
+
+
+
+&lt;div class=&quot;navline&quot;&gt;
+&lt;article class=&quot;flex-menu &quot;&gt;
+
+  &lt;div class=&quot;bread&quot;&gt;
+  &lt;ol class=&quot;bread-list&quot;&gt;
+    &lt;li class=&quot;home&quot;&gt;&lt;a href=&quot;/&quot;&gt;Главная&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Февраль 2018&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+
+&lt;div&gt;&lt;form class=&quot;search-container&quot; action=&quot;https://www.google.com/search&quot; method=&quot;GET&quot;&gt;
+  &lt;input id=&quot;search-box&quot; type=&quot;text&quot; class=&quot;search-box&quot; name=&quot;q&quot; /&gt;
+  &lt;label for=&quot;search-box&quot;&gt;&lt;span class=&quot;search-icon&quot;&gt;&lt;svg xmlns=&quot;https://www.w3.org/2000/svg&quot; width=&quot;16&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot;&gt;&lt;path stroke=&quot;none&quot; fill-rule=&quot;inherit&quot; clip-rule=&quot;evenodd&quot; d=&quot;M16 14.5l-4.399-4.399a6.212 6.212 0 0 0 1.148-3.602 6.25 6.25 0 1 0-12.5 0 6.25 6.25 0 0 0 6.251 6.25 6.212 6.212 0 0 0 3.602-1.148L14.5 16l1.5-1.5zM1.25 6.501a5.251 5.251 0 1 1 10.502 0 5.251 5.251 0 0 1-10.502 0z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/label&gt;
+  &lt;!-- &lt;input type=&quot;submit&quot; id=&quot;search-submit&quot; /&gt; --&gt;
+  &lt;input type=&quot;hidden&quot; name=&quot;sitesearch&quot; value=&quot;likewhoa.ru&quot;&gt;
+&lt;/form&gt;&lt;/div&gt;
+
+&lt;div class=&quot;modal&quot;&gt;
+  &lt;a class=&quot;button&quot; href=&quot;#0&quot;&gt;Подписаться&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;/article&gt;
+&lt;/div&gt;
+
+&lt;!-- modal subscribe --&gt;
+
+  &lt;div class=&quot;cd-modal&quot;&gt; &lt;!-- this is the entire modal form, including the background --&gt;
+    &lt;div class=&quot;cd-modal-container&quot;&gt; &lt;!-- this is the container wrapper --&gt;
+          &lt;h3&gt;Подписка на блог&lt;/h3&gt;Через &lt;a href=&quot;http://likewhoa.ru/feed.xml&quot;&gt;RSS&lt;/a&gt; и &lt;a href=&quot;t.me/likewhoa&quot;&gt;телеграм&lt;/a&gt;
+          &lt;!-- &lt;a href=&quot;#0&quot; class=&quot;close-modal&quot;&gt;Close&lt;/a&gt; --&gt;
+    &lt;/div&gt; &lt;!-- cd-user-modal-container --&gt;
+  &lt;/div&gt; &lt;!-- cd-user-modal --&gt;</content><author><name></name></author><category term="monthly" /><category term="месячные" /><category term="кино" /><summary type="html">Три биллборда на границе Эббинга, Миссури Про фильм года пока рано говорить, но уж точно драма года. От начала до конца пропитанная яростью и сердитостью. Думаю, что единственное, что может помешать получить оскар — необычное для большого экрана количество расизма.</summary></entry><entry><title type="html">Январь 2018</title><link href="http://likewhoa.ru/blog/jan-2018/" rel="alternate" type="text/html" title="Январь 2018" /><published>2018-01-31T08:05:00+06:00</published><updated>2018-01-31T08:05:00+06:00</updated><id>http://likewhoa.ru/blog/jan-2018</id><content type="html" xml:base="http://likewhoa.ru/blog/jan-2018/">&lt;aside&gt;
+  &lt;p&gt;Наконец у нас больше не осталось компьютеров на винде. Последний ноут уехал на склад, его место занял эйр.&lt;/p&gt;
+  &lt;p&gt;Появилась дочь. Ей уже 2 месяца. Первое время её жизнь состояла из двух фаз: еда и сон, практически без исключений. Теперь к этому добавилась фаза разглядывания всего, фаза больного живота, фаза хохота и отрыгивания. Совсем по другому начинаешь относиться к своим родителям. Становится понятно сколько именно времени потрачено на тебя — 100%, всё без остатка.&lt;/p&gt;
+  &lt;p&gt;Конечно, это мощнейший удар по эгоизму. Думаю, что это и есть основная причина послеродовой депрессии, которая так на слуху. Ну, по крайней мере, мне так показалось. Удивительно, но меня она обошла стороной, хотя я себя всегда считал большим эгоистом.&lt;/p&gt;
+
+  &lt;h3&gt;Новая пластинка&lt;/h3&gt;
+  &lt;p&gt;11 марта 2017 года в Питере ходили на концерт Йозефа ван Виссема. На входе продавался какой-то мерч и пластинки. Мы, естественно, прощёлкали момент, решили купить после, а после уже ничего не осталось.&lt;/p&gt;
+&lt;/aside&gt;
+
+
+  &lt;span class=&quot;icon&quot;&gt;&amp;nbsp;&lt;/span&gt;
+
+  &lt;img src=&quot;/images/monthly/jan2018/jozef.png&quot; class=&quot;normal center&quot; style=&quot;max-width: 300px&quot; alt=&quot;Йозеф ван Виссем&quot;&gt;
+  &lt;article class=&quot;shadow&quot;&gt;
+    &lt;section&gt;
+      &lt;span class=&quot;icon&quot;&gt;&amp;nbsp;&lt;/span&gt;
+      &lt;p&gt;Йозеф вышел на сцену Анненкирхе в скверном настроении, не здороваясь сел, взял лютню и начал играть, не дожидаясь пока в зале наступит тишина. Я был знаком с ним лишь по саундтреку в фильму Выживут только любовники, где в большинстве песен ему аккомпанирует Джармуш.&lt;/p&gt;
+&lt;script src=&quot;/static/jouele/jouele.min.js&quot;&gt;&lt;/script&gt;
+&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/static/jouele/jouele.min.css&quot; /&gt;
+
+
+  &lt;a href=&quot;http://antown.ru/blog/Jozef_van_Wissem-spb.mp3&quot; class=&quot;jouele&quot;&gt;
+    Jozef van Vissem - Live in Saint-Petersburg
+  &lt;/a&gt;
+
+      &lt;p&gt;Собственные произведения Йозефа оказались более минималистичными и таинственными, был момент потрясения когда после 30-40 минут инструментальной музыки он начал петь и отбивать ритм сапогом по деревянной сцене. В конце выступления резко попрощался, положил лютню и ушел. В итоге раза 3 выходил на бис, последний раз уже с явно заметной улыбкой. Короче, пластинку мы не купили.&lt;/p&gt;
+
+   &lt;span class=&quot;icon&quot;&gt;&amp;nbsp;&lt;/span&gt;
+    &lt;/section&gt;
+  &lt;/article&gt;
+&lt;span class=&quot;icon&quot;&gt;&amp;nbsp;&lt;/span&gt;
+&lt;article&gt;
+    &lt;div class=&quot;gallery&quot;&gt;
+      &lt;div&gt;&lt;img src=&quot;/images/monthly/jan2018/jozef-1.jpg&quot; alt=&quot;Йозеф ван Виссем&quot; data-action=&quot;zoom&quot;&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;img src=&quot;/images/monthly/jan2018/jozef-5.jpg&quot; alt=&quot;Йозеф ван Виссем&quot; data-action=&quot;zoom&quot;&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;img src=&quot;/images/monthly/jan2018/jozef-3.jpg&quot; alt=&quot;Йозеф ван Виссем&quot; data-action=&quot;zoom&quot;&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;img src=&quot;/images/monthly/jan2018/jozef-4.jpg&quot; alt=&quot;Йозеф ван Виссем&quot; data-action=&quot;zoom&quot;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;gallery&quot;&gt;
+      &lt;div&gt;&lt;img src=&quot;/images/monthly/jan2018/jozef-2.jpg&quot; alt=&quot;Йозеф ван Виссем&quot; data-action=&quot;zoom&quot;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/article&gt;
+
+&lt;aside&gt;&lt;p&gt;Спустя почти год я получил её в подарок на день рождения, в идеальном качестве, с автографом. С трудом представляю того смельчака, который решился попросить её подписать.&lt;/p&gt;
+&lt;/aside&gt;
+
+&lt;img src=&quot;/images/monthly/jan2018/jozef-6.jpg&quot; alt=&quot;Йозеф ван Виссем винил&quot; class=&quot;padded&quot;&gt;
+
+&lt;div class=&quot;navline&quot;&gt;
+&lt;article class=&quot;flex-menu &quot;&gt;
+
+  &lt;div class=&quot;bread&quot;&gt;
+  &lt;ol class=&quot;bread-list&quot;&gt;
+    &lt;li class=&quot;home&quot;&gt;&lt;a href=&quot;/&quot;&gt;Главная&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Январь 2018&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+
+&lt;div&gt;&lt;form class=&quot;search-container&quot; action=&quot;https://www.google.com/search&quot; method=&quot;GET&quot;&gt;
+  &lt;input id=&quot;search-box&quot; type=&quot;text&quot; class=&quot;search-box&quot; name=&quot;q&quot; /&gt;
+  &lt;label for=&quot;search-box&quot;&gt;&lt;span class=&quot;search-icon&quot;&gt;&lt;svg xmlns=&quot;https://www.w3.org/2000/svg&quot; width=&quot;16&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot;&gt;&lt;path stroke=&quot;none&quot; fill-rule=&quot;inherit&quot; clip-rule=&quot;evenodd&quot; d=&quot;M16 14.5l-4.399-4.399a6.212 6.212 0 0 0 1.148-3.602 6.25 6.25 0 1 0-12.5 0 6.25 6.25 0 0 0 6.251 6.25 6.212 6.212 0 0 0 3.602-1.148L14.5 16l1.5-1.5zM1.25 6.501a5.251 5.251 0 1 1 10.502 0 5.251 5.251 0 0 1-10.502 0z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/label&gt;
+  &lt;!-- &lt;input type=&quot;submit&quot; id=&quot;search-submit&quot; /&gt; --&gt;
+  &lt;input type=&quot;hidden&quot; name=&quot;sitesearch&quot; value=&quot;likewhoa.ru&quot;&gt;
+&lt;/form&gt;&lt;/div&gt;
+
+&lt;div class=&quot;modal&quot;&gt;
+  &lt;a class=&quot;button&quot; href=&quot;#0&quot;&gt;Подписаться&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;/article&gt;
+&lt;/div&gt;
+
+&lt;!-- modal subscribe --&gt;
+
+  &lt;div class=&quot;cd-modal&quot;&gt; &lt;!-- this is the entire modal form, including the background --&gt;
+    &lt;div class=&quot;cd-modal-container&quot;&gt; &lt;!-- this is the container wrapper --&gt;
+          &lt;h3&gt;Подписка на блог&lt;/h3&gt;Через &lt;a href=&quot;http://likewhoa.ru/feed.xml&quot;&gt;RSS&lt;/a&gt; и &lt;a href=&quot;t.me/likewhoa&quot;&gt;телеграм&lt;/a&gt;
+          &lt;!-- &lt;a href=&quot;#0&quot; class=&quot;close-modal&quot;&gt;Close&lt;/a&gt; --&gt;
+    &lt;/div&gt; &lt;!-- cd-user-modal-container --&gt;
+  &lt;/div&gt; &lt;!-- cd-user-modal --&gt;</content><author><name></name></author><category term="monthly" /><category term="месячные" /><category term="винил" /><category term="дочь" /><category term="ноут" /><category term="питер" /><summary type="html">Наконец у нас больше не осталось компьютеров на винде. Последний ноут уехал на склад, его место занял эйр. Появилась дочь. Ей уже 2 месяца. Первое время её жизнь состояла из двух фаз: еда и сон, практически без исключений. Теперь к этому добавилась фаза разглядывания всего, фаза больного живота, фаза хохота и отрыгивания. Совсем по другому начинаешь относиться к своим родителям. Становится понятно сколько именно времени потрачено на тебя — 100%, всё без остатка. Конечно, это мощнейший удар по эгоизму. Думаю, что это и есть основная причина послеродовой депрессии, которая так на слуху. Ну, по крайней мере, мне так показалось. Удивительно, но меня она обошла стороной, хотя я себя всегда считал большим эгоистом.</summary></entry><entry><title type="html">Прошитый горизонт</title><link href="http://likewhoa.ru/blog/p10/" rel="alternate" type="text/html" title="Прошитый горизонт" /><published>2017-02-20T09:04:00+06:00</published><updated>2017-02-20T09:04:00+06:00</updated><id>http://likewhoa.ru/blog/p10</id><content type="html" xml:base="http://likewhoa.ru/blog/p10/">&lt;aside&gt;
+&lt;h1&gt;Прошитый горизонт&lt;/h1&gt;
+&lt;span class=&quot;icon&quot;&gt;&amp;nbsp;&lt;/span&gt;
+
+&lt;p&gt;Ходили в артцентр на Пушкинской 10. Пришли рановато, к часу. Множество мастерских, большинство еще закрыто. Нас встретила дама преклонных лет, живо повела рассказывать про арт-объект с сосками на лестнице.&lt;/p&gt;
+
+&lt;p&gt;В другом зале главным экспонатом был недопитая бутылка водки под столом смотрительницы пространства.&lt;/p&gt;
+	
+
+&lt;p&gt;После, в другом флигеле, был зал нонконформиста 50х, точно не знаю кого, очень душное место, в переносном смысле. Далее, на последнем этаже, вдова Галина Никифорова больше часа рассказывала нам двоим про творчество ее мужа. Никто ее об этом особо не просил, она и не должна была, но увлеченная историей показала и видео, и &quot;слайды&quot;, и документы. Немного неуверенно говорила о том, что неплохо бы сохранить работы её мужа.&lt;/p&gt;&lt;/aside&gt;
+&lt;img src=&quot;/images/blog/horizon.jpg&quot;&gt;
+
+&lt;aside&gt;
+&lt;p&gt;Затем мы встретились с Максимом и Дашей и пошли к нам в гости.&lt;/p&gt;
+
+&lt;p&gt;Мы жили на Сенной, в доме 1825 года. Дверь в квартиру витала в воздухе прямо над лестничным пролетом и это коррелировало с нашим состоянием в высшей мере. Дом находится в эпицентре действия «Преступления и наказания», окружающая атмосфера изменилась лишь чуть, дополнившись ярким пятном заведения Pita's, где продают шаверму по стандарту из палаты мер и весов (в том числе брусничную с мятой).&lt;/p&gt;
+
+&lt;/aside&gt;</content><author><name></name></author><category term="blog" /><category term="месячные" /><category term="питер" /><summary type="html">Прошитый горизонт &amp;nbsp;</summary></entry><entry><title type="html">Визуальное повествование Пленниц</title><link href="http://likewhoa.ru/blog/prisoners/" rel="alternate" type="text/html" title="Визуальное повествование Пленниц" /><published>2017-02-11T08:05:00+06:00</published><updated>2017-02-11T08:05:00+06:00</updated><id>http://likewhoa.ru/blog/prisoners</id><content type="html" xml:base="http://likewhoa.ru/blog/prisoners/">&lt;div class=&quot;bgblack txtwhite&quot;&gt;
+
+  &lt;img src=&quot;/images/prisoners/prisoners-cover.jpg&quot; alt=&quot;Язык визуального повествования Роджера Дикинса. Фильм Пленницы&quot;&gt;
+
+
+
+
+
+  &lt;article&gt;
+    &lt;section&gt;
+            &lt;h1&gt;Пленницы&lt;/h1&gt;
+      &lt;h2&gt;Язык визуального повествования Роджера Дикинса&lt;/h2&gt;
+      &lt;p&gt;&lt;!-- Если сейчас ворваться в спальню к Дени Вильневу, то наверняка на его лице окажется безмятежная спокойная и слегка надменная улыбка. Иначе не искренне. Всё по той причине, что --&gt;Дени снял один из лучших (если не лучший, вот на мой взгляд—таки лучший) фильмов в жанре детективного триллера за ну вообще за долгое—долгое время. Сыграл, ко всему прочему, на поле Дэвида Финчера, отчасти имитируя неторопливую, но уверенную походку повествования. Остановок нет, как нет и явных превышений скорости.&lt;/p&gt;
+
+      &lt;p&gt;Отдельного внимания заслуживает Локи. Лучшего образа детектива я не видел никогда. Это одновременно головоломка, как и сам фильм, и просто отличный типаж с яркими, запоминающимися деталями, а не просто жестокий или побитый жизнью алкаш в протертом пиджаке, что несомненно радует.&lt;/p&gt;
+
+      &lt;p&gt;Фильм без подачек, однако до искусственной недоступности ему далеко. Заодно фильм с человеческим лицом, хоть и кривым, но настоящим, человеческим, а не идеалистическим.&lt;/p&gt;
+    &lt;/section&gt;
+  &lt;/article&gt;
+
+  &lt;span class=&quot;icon&quot;&gt;&amp;nbsp;&lt;/span&gt;
+  
+  
+  &lt;figcaption&gt;Цветовая гамма фильма. Для визуализации я взял каждый 150 кадр и уменьшил его до 3 пикселей. Всего использовано 1389 кадров. Далее доминирующие цвета приведены для каждого кадра в отдельности.&lt;/figcaption&gt;
+      &lt;img src=&quot;/images/prisoners/prisoners-barcode.png&quot; alt=&quot;Цветовой штрих код фильма Пленницы&quot;&gt;    
+  
+
+&lt;/div&gt;
+
+&lt;span class=&quot;icon&quot;&gt;&amp;nbsp;&lt;/span&gt;
+&lt;article&gt;
+  &lt;section&gt;
+    &lt;p&gt;Повествование начинается со сцены охоты. Кадр разделен ровно на 3 части: два охотника (один мнимый) и жертва. Келлер читает молитву в то время, когда сын убивает оленя. Сцена задает неловкий тон истории, когда религия ассоциируется с убийством.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+
+
+  &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-00.jpg&quot; alt=&quot;Вступительная сцена фильма Пленницы&quot; data-action=&quot;zoom&quot;&gt;
+  &lt;figcaption&gt;Фокусное расстояние 18 мм&lt;/figcaption&gt;
+
+
+&lt;article&gt;
+  &lt;section&gt;
+    &lt;p&gt;Дикинс часто ограничивает кадр различными объектами ➀. В этом кадре так же сочетаются сразу два принципа построения: правило третей и треугольная композиция. Она уравновешивает неустойчивый наклон дороги.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+
+
+  &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-01.jpg&quot; alt=&quot;Дикинс обозначает границы кадра объектами&quot; data-action=&quot;zoom&quot;&gt;
+  &lt;figcaption&gt;Фокусное расстояние 18 мм&lt;/figcaption&gt;
+
+  
+    &lt;article&gt;
+    &lt;section&gt;
+      &lt;p&gt;Ещё один акцент на религиозности Келлера. Крест точно позиционирован на фоне контрастной кирпичной стены. Внутрикадровый монтаж: перевод фокуса с креста на дочь Келлера ➀. Кадр вновь ограничен: снизу торпедо, сверху — зеркало ➁. Такое обрамление служит двум целям: добавляет кадру значительную глубину и ведет взгляд зрителя по нужной тракетории. Тема грязного и мокрого стекла трактуется достаточно однозначно и проходит через весь фильм.&lt;/p&gt;
+    &lt;/section&gt;
+  &lt;/article&gt;
+  
+  
+    &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-02.jpg&quot; alt=&quot;Внутрикадровый монтаж: перевод фокуса&quot; data-action=&quot;zoom&quot;&gt;
+    &lt;figcaption&gt;Фокусное расстояние 35 мм&lt;/figcaption&gt;
+  
+  
+    &lt;article&gt;
+    &lt;section&gt;
+      &lt;p&gt;Сложная постановка ➀: кадр внутри кадра, внутри другого кадра. Окно, обрамляющее зеркало, отражающее девочку . Очень точный блокинг: девочка движется по отметкам, камера ведет её и ловит последний кадр уже в отражении зеркала ➁.&lt;/p&gt;
+    &lt;/section&gt;
+  &lt;/article&gt;
+
+  
+    &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-03.jpg&quot; alt=&quot;Кадр внутри кадра, внутри другого кадра&quot; data-action=&quot;zoom&quot;&gt;
+    &lt;figcaption&gt;Фокусное расстояние 35 мм&lt;/figcaption&gt;
+  
+  
+&lt;article&gt;
+  &lt;section&gt;
+    &lt;p&gt;Машина ограничивает кадр слева и направляет взгляд к лестнице. Более того, стоп-сигнал ➀ ограничивает машину: можно представить кадр без стоп-сигнала, это очень смажет ощущение целостности композиции.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+
+
+  &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-04.jpg&quot; alt=&quot;Постановка машины при съёмках&quot; data-action=&quot;zoom&quot;&gt;
+  &lt;figcaption&gt;Фокусное расстояние 35 мм&lt;/figcaption&gt;
+
+  
+&lt;article&gt;
+  &lt;section&gt;
+    &lt;p&gt;Линия поручня ➀ ведет взгляд в обратную сторону. Мокрая поверхность аккуратно добавляет контраста ➁.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+
+
+  &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-05.jpg&quot; alt=&quot;Мокрая поверхность добавляет контраста&quot; data-action=&quot;zoom&quot;&gt;
+  &lt;figcaption&gt;Фокусное расстояние 24 мм&lt;/figcaption&gt;
+
+  
+&lt;article&gt;
+  &lt;section&gt;
+    &lt;p&gt;Изобилие практического освещения ➀. Дикинс очень любит его использовать, причем, не в качестве декора: часто практические источники света являются единственным светом в кадре. Гамма сразу меняется на теплую. Вобще, в фильме ни разу не встречается чистый белый цвет: он всегода окрашен в разные тона. В кадре очень много действия.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+
+
+  &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-06.jpg&quot; alt=&quot;Практическое освещение в кадре&quot; data-action=&quot;zoom&quot;&gt;
+  &lt;figcaption&gt;Фокусное расстояние 18 мм&lt;/figcaption&gt;
+
+  
+&lt;article&gt;
+  &lt;section&gt;
+    &lt;p&gt;Монотонный ковер листьев контрастно выделяет героев. Очень естественная работа стэдикама. Цвет во всем фильме приглушен, в данной сцене это особенно ощутимо.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+
+
+  &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-08.jpg&quot; alt=&quot;Цветовой баланс в фильме&quot; data-action=&quot;zoom&quot;&gt;
+  &lt;figcaption&gt;&lt;/figcaption&gt;
+
+  
+&lt;article&gt;
+  &lt;section&gt;
+    &lt;p&gt;Вновь вид через грязное стекло ➀. Кадр в кадре: отличная точка наблюдения, очень волнующе.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+
+
+  &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-09.jpg&quot; alt=&quot;Кадр через грязное стекло&quot; data-action=&quot;zoom&quot;&gt;
+  &lt;figcaption&gt;&lt;/figcaption&gt;
+
+  
+  &lt;article&gt;
+  &lt;section&gt;
+    &lt;p&gt;Руки на переднем плане задают губину ➀. Заполнение кадра треугольной композицией очень гармонично. На окнах, по видимому, CTO гели, они смягчают днейвной свет, он опять не белый, а теплый, хотя погода за окном так себе.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+
+
+  &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-10.jpg&quot; alt=&quot;Глубина кадра при съёмках&quot; data-action=&quot;zoom&quot;&gt;
+  &lt;figcaption&gt;&lt;/figcaption&gt;
+
+  
+&lt;article&gt;
+  &lt;section&gt;
+    &lt;p&gt;Торшер обрамляет границу кадра и вносит практический свет ➀. Голова на ближнем плане задает глубину сцены. Ламели на стене вместо однотонной окраски добавляют текстуру, аккуратно разбитую картиной.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+
+
+  
+
+  &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-12.jpg&quot; alt=&quot;Постановка кадра при съёмках фильма&quot; data-action=&quot;zoom&quot;&gt;
+  &lt;figcaption&gt;&lt;/figcaption&gt;
+
+  
+
+&lt;article&gt;
+  &lt;section&gt;
+    &lt;p&gt;Кадр наполнен предчувствием и тревогой. Показано очень мало.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+
+
+  &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-13.jpg&quot; alt=&quot;Ограничение видимого в кадре&quot; data-action=&quot;zoom&quot;&gt;
+  &lt;figcaption&gt;&lt;/figcaption&gt;
+
+
+&lt;article&gt;
+  &lt;section&gt;
+    &lt;p&gt;Но, вроде бы, ничего плохого не произошло. Келлер — плотник. Это прближает его образ к Христу ещё больше, поддерживая религиозную линию фильма. Композиция ведет взгляд зрителя точно к герою.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+
+
+  &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-14.jpg&quot; alt=&quot;Композиция ведет взгляд зрителя точно к герою&quot; data-action=&quot;zoom&quot;&gt;
+  &lt;figcaption&gt;&lt;/figcaption&gt;
+
+
+&lt;article&gt;
+  &lt;section&gt;
+    &lt;p&gt;Фокус переходит на противогаз, Келлер ушел. Противогаз выглядит достаточно агресивно, он напрямую связан с выживанием. Келлер — выживальщик, в самом начале фильма он учит сына быть готовым к чрезвычайным обстоятельствам.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+
+
+  &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-15.jpg&quot; alt=&quot;Перевод фокуса с героя&quot; data-action=&quot;zoom&quot;&gt;
+  &lt;figcaption&gt;&lt;/figcaption&gt;
+
+
+&lt;article&gt;
+  &lt;section&gt;
+    &lt;p&gt;Общий план: очень много деталей. Контрастные спинки стульев режут сцену на мелкие кусочки, многократные отражения ламп ➀ задают глубину кадра. Всё это ведет к экспозиции персонажа: он не простой парень.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+
+
+  &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-16.jpg&quot; alt=&quot;Много деталей в кадре&quot; data-action=&quot;zoom&quot;&gt;
+  &lt;figcaption&gt;&lt;/figcaption&gt;
+
+
+&lt;article&gt;
+  &lt;section&gt;
+    &lt;p&gt;➀ — официантка ему подстать: черная одежда и однотонный красный передник, очень строгое, но не скучное сочетание. План сменился, но мы все ещё не видим лица героя.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+
+
+  &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-17.jpg&quot; alt=&quot;Сцена с официанткой&quot; data-action=&quot;zoom&quot;&gt;
+  &lt;figcaption&gt;&lt;/figcaption&gt;
+
+  
+
+&lt;article&gt;
+  &lt;section&gt;
+    &lt;p&gt;Окей, лицо уже видно, но даже сейчас не видно глаз. ➀ — очень аккуратный контраст, единственный холодный свет. Разумеется, чашка белая ➁, разве можно тут представить чащку другого цвета? ➂ — деталей все так же много, они окружают Локи и задают глубину кадра.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+
+
+  &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-18.jpg&quot; alt=&quot;Глубина кадра на среднем плане&quot; data-action=&quot;zoom&quot;&gt;
+  &lt;figcaption&gt;&lt;/figcaption&gt;
+
+
+
+  &lt;span class=&quot;icon&quot;&gt;&amp;nbsp;&lt;/span&gt;
+
+  &lt;img src=&quot;/images/prisoners/gyllenhaal.png&quot; class=&quot;normal center&quot; style=&quot;max-width: 500px&quot; alt=&quot;Джилленхол в Пленницах&quot;&gt;
+  &lt;article class=&quot;shadow&quot;&gt;
+    &lt;section&gt;
+      &lt;span class=&quot;icon&quot;&gt;&amp;nbsp;&lt;/span&gt;
+      &lt;p&gt;С самого первого появления детектива Локи мне показалось, что он каким–то образом играет тут отрицательную роль. Пока наблюдал за ним на протяжении всего фильма я начал вроде как верить в него, что он хороший, но почему–то всякие мелочи меня всегда сбивали с толку.&lt;/p&gt;
+
+      &lt;p&gt;Джилленхол сам придумал, домыслил свой образ, никаких подобных деталей не было в сценарии.&lt;/p&gt;
+
+      &lt;p&gt;Татуировка на шее — октаграмма, восьмиконечная звезда. Ширико известный в определенных кругах символ, явно намекающий на криминальное прошлое. О татуировках на пальцах сложно судить однозначно. Отчасти они похожи на астрологические символы: скорпион, телец и дева. Отсылка к «Зодиаку»? Сам Джилленхол говорит, что это нечто личное, то что останется между ним и Вильнёвым.&lt;/p&gt;
+
+      &lt;p&gt;Вильнев идею оценил, он просто влюбился в этот образ.&lt;/p&gt;
+
+
+      &lt;div class=&quot;gallery&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/images/prisoners/gyllenhaal-1.jpg&quot; alt=&quot;Кольцо Джейка Джилленхола&quot; data-action=&quot;zoom&quot;&gt;
+          &lt;figcaption&gt;Кольцо&lt;/figcaption&gt;&lt;/div&gt;
+        &lt;div&gt;&lt;img src=&quot;/images/prisoners/gyllenhaal-2.jpg&quot; alt=&quot;Татуировки Джейка Джилленхола&quot; data-action=&quot;zoom&quot;&gt;
+          &lt;figcaption&gt;Тату на пальцах&lt;/figcaption&gt;&lt;/div&gt;
+        &lt;div&gt;&lt;img src=&quot;/images/prisoners/gyllenhaal-3.jpg&quot; alt=&quot;Татуировки Джейка Джилленхола&quot; data-action=&quot;zoom&quot;&gt;
+          &lt;figcaption&gt;Звезда на&amp;nbsp;шее&lt;/figcaption&gt;&lt;/div&gt;
+      &lt;/div&gt;
+
+    &lt;/section&gt;
+  &lt;/article&gt;
+  &lt;span class=&quot;icon&quot;&gt;&amp;nbsp;&lt;/span&gt;
+
+
+&lt;article&gt;
+  &lt;section&gt;
+    &lt;p&gt;Снова треугольная композиция и границы кадра: неон сверху ➁ и стоп-сигналы по бокам ➀. Сквозь &lt;em&gt;грязное&lt;/em&gt; стекло виден силуэт Локи, он притягивает внимание.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+
+  
+    &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-20.jpg&quot; alt=&quot;Труегольная композиция кадра&quot; data-action=&quot;zoom&quot;&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+  
+
+&lt;article&gt;
+  &lt;section&gt;
+    &lt;p&gt;В залитом голубым светом кадре все линии ведут в угол, куда забилось ржавое пятно теплого света.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+
+  
+    &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-21.jpg&quot; alt=&quot;Контраст цвета&quot; data-action=&quot;zoom&quot;&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+  
+
+
+&lt;article&gt;
+  &lt;section&gt;
+    &lt;p&gt;Холодный свет полицейских мигалок ➀ очерчивает контуры фургона, аккуртно обозначая его габариты. Композиция сводит взгляд зрителя на Локи. Его машина ➁ светит в сторону: свет заправочной станции рассеивается дождем, создавая светящуюся пелену, достаточно выделяющую силуэт.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+
+  
+    &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-22.jpg&quot; alt=&quot;Ведущие линии композиции&quot; data-action=&quot;zoom&quot;&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+  
+
+
+&lt;article&gt;
+  &lt;section&gt;
+    &lt;p&gt;Снова грзное стекло ➀ и силуэт. Сбалансированный кадр, обрамленный ветровым стеклом фургона. Акцент на персонаже, рядом с ним видны отблески голубого в окне, туда переходит камера.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+
+
+  
+    &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-23.jpg&quot; alt=&quot;Сбалансированный кадр&quot; data-action=&quot;zoom&quot;&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+  
+
+&lt;article&gt;
+  &lt;section&gt;
+    &lt;p&gt;Кадр снова вложен в другой кадр — четкое ощущение слежки за детективом, тонкая работа фокусировки. Фары фургона все ещё отбивают коричневый фон листвы, внося губину.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+
+  
+    &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-24.jpg&quot; alt=&quot;Вложенность кадра&quot; data-action=&quot;zoom&quot;&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+  
+
+&lt;article&gt;
+  &lt;section&gt;
+    &lt;p&gt;Лицо детектива ➀ освещено полицейской мигалкой, больше никакого света. Машина Локи светит фарами в бок: она очерчивает светом столб, ограничивающий кадр слева ➁. Объектив с большим фокусным расстоянием сжимает перспективу, пододвигая заправку ближе к герою.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+
+  
+    &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-25.jpg&quot; alt=&quot;Практическое освещение на улице&quot; data-action=&quot;zoom&quot;&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+  
+
+&lt;article&gt;
+  &lt;section&gt;
+    &lt;p&gt;Заметно не сразу, но машину переставили: теперь она повернута больше в след Локи ➀, отбивая его силуэт от фона и раскрывая текстуру фургона. Все линии композиции упираются в машину незнакомца ➁.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+
+  
+    &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-26.jpg&quot; alt=&quot;Машина в качестве практического света&quot; data-action=&quot;zoom&quot;&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+  
+
+
+&lt;article&gt;
+  &lt;section&gt;
+    &lt;p&gt;Прекрасные динамичные силуэты. Машина Локи вернулась на исходную позицию. Дождь виден только в контровом свете фар ➀, но задает текстуру всей нижней половины кадра ➁.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+
+
+  
+    &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-27.jpg&quot; alt=&quot;Силуэты в кино&quot; data-action=&quot;zoom&quot;&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+  
+
+&lt;article&gt;
+  &lt;section&gt;
+    &lt;p&gt;Наконец-то проблеск фонарика показывает лицо преследуемого. Без сомнений, парень ➀ идет с той стороны, чтобы обозначить границы силуэта. Дождь так же хорошо виден в контровом свете фонарей ➁. Фактически, тут только практическое освещение: 2 фонаря и фары машины, но этого достаточно для гениального кадра.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+
+  
+    &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-28.jpg&quot; alt=&quot;Тонкая работа со светом&quot; data-action=&quot;zoom&quot;&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+  
+
+&lt;article&gt;
+  &lt;section&gt;
+    &lt;p&gt;Вторая машина помогает с перспективой ➀ — её размер легко сравнить с огромным Понтиаком 77 года. На самом деле Понтиак диннее Тойоты на 2 мера, что добавляет контраста в размерах и глубине. Кадр разделен на две ровные половины — всерху светло и обыденно, а снизу загадочная темнота. Мокрая поверхность ➂ балансирует освещенность верхней части. Лицо локи явно подсвечено дополнительно, стекло не может отражать так сильно ➁.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+
+  
+    &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-29.jpg&quot; alt=&quot;Сравнение масштаба объектов помогает создать глубину&quot; data-action=&quot;zoom&quot;&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+  
+
+
+&lt;article&gt;
+  &lt;section&gt;
+    &lt;p&gt;Второй кадр продолжает уверять зрителя в заурядности дамы: большое пустое пространство, милая собачка ➁ (возможно, она пьет коричневую жижу из бутылки!). Она явно не причастна к делу. Небольшой рефлекс от лампы, откуда он? ➀&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+
+  
+    &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-30.jpg&quot; alt=&quot;Антагонист фильма&quot; data-action=&quot;zoom&quot;&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+  
+
+&lt;article&gt;
+  &lt;section&gt;
+    &lt;p&gt;Это вновь любимый практический свет Дикенса. Казалось бы, такая мелочь, но присутствует во всех кадрах сцены. ➀ Здесь он отбивает детектива от фона, добавляя текстуры в темноту ночи.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+
+
+  
+    &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-31.jpg&quot; alt=&quot;Практический свет Дикенса&quot; data-action=&quot;zoom&quot;&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+  
+&lt;!--
+  
+    &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-32.jpg&quot; alt=&quot;&quot; data-action=&quot;zoom&quot;&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+  
+--&gt;
+
+&lt;article&gt;
+  &lt;section&gt;
+    &lt;p&gt;Можно попробовать представить этот диалог с фронтальной точки: мы видим двух персонажей спереди, на фоне голой стены. Сразу изменится настроение: им станет комфортно общаться, оба будут расположены к диалогу. Сейчас же в кадре явное противостояние: Локи доминирует, хоть и аккуратно; Грейс сопротивляется и переживает.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+
+  
+    &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-33.jpg&quot; alt=&quot;Постановка сцены диалога героев&quot; data-action=&quot;zoom&quot;&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+  
+
+&lt;article&gt;
+  &lt;section&gt;
+    &lt;p&gt;Пожалуй, первый кадр в помещении без практического света. Мягкий рассеяный свет ➀ из окна, с другой стороны — рефлекс от светлой стены ➁. Совсем нет теней, детективу нечего скрывать.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+
+  
+    &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-34.jpg&quot; alt=&quot;Рефлекс от стены убирает тени&quot; data-action=&quot;zoom&quot;&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+  
+
+&lt;article&gt;
+  &lt;section&gt;
+    &lt;p&gt;Вновь прекрасная труегольная композиция: Локи на вершине, Грейс на переднем плане. Маленькая комната кажется очень просторной. Стол слева подхватывает линии построения треугольника.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+
+  
+    &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-35.jpg&quot; alt=&quot;Треугольная композиция&quot; data-action=&quot;zoom&quot;&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+  
+
+&lt;article&gt;
+  &lt;section&gt;
+    &lt;p&gt;Грейс сидит на фоне подвала. Условно она загнана в угол: просто немыслимо чтобы она сидела на другом конце дивана. В то же время, темный фон лестницы хорошо контрастирует, выделяя лицо и эмоции.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+
+  
+    &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-36.jpg&quot; alt=&quot;Постановка кадра с Грейс&quot; data-action=&quot;zoom&quot;&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+  
+
+&lt;article&gt;
+  &lt;section&gt;
+    &lt;p&gt;Силуэты, дождь, мокрое стекло.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+
+  
+    &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-37.jpg&quot; alt=&quot;Силуэты, дождь, мокрое стекло&quot; data-action=&quot;zoom&quot;&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+  
+
+&lt;article&gt;
+  &lt;section&gt;
+    &lt;p&gt;Кадр в кадре. Горзонт завален, неустойчивая поза на краю пропасти.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+
+  
+    &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-38.jpg&quot; alt=&quot;Кадр в кадре&quot; data-action=&quot;zoom&quot;&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+  
+
+&lt;article&gt;
+  &lt;section&gt;
+    &lt;p&gt;Лампочка слабо помогает справиться с этим. Не смотря на то, что голова практически вплотную к ней ➀, на лице нет пересвета: тьма словно выплескивается на Локи. Стена немного ограничивает пространство, но лестница пока не видна.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+
+  
+    &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-39.jpg&quot; alt=&quot;Стена немного ограничивает пространство&quot; data-action=&quot;zoom&quot;&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+  
+
+&lt;article&gt;
+  &lt;section&gt;
+    &lt;p&gt;Знакомая композиция. Экстремально низкий ракурс. Возвращаясь к свету: Дикинс никогда не боится показывать источники света в кадре. Это не просто, ведь они легко могут отвлечь зрителя. В данном же случае они не отвлекают, но способствуют повествованию поиска детектива.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+
+  
+    &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-40.jpg&quot; alt=&quot;Экстремально низкий ракурс&quot; data-action=&quot;zoom&quot;&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+  
+
+&lt;article&gt;
+  &lt;section&gt;
+    &lt;p&gt;Вместо шаблонного сочетания голубого с оранжевым, часто применяемого в блокбастерах, Дикинс использует зеленый с желтым. Это создает сюрреалистичную, больную атмосферу. Тут, грубо говоря, теплый желтый ➀ — безопасность; зелено-синий, холодный ➁ — неопределенность. Луч ➂  экспонирует пыль, создавая объем, наравне с ведущими линиями настенных ламелей. Кадр ограничен слева статуей, справа — кирпичной колонной.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+
+  
+    &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-41.jpg&quot; alt=&quot;Дикинс использует зеленый с желтым для контраста&quot; data-action=&quot;zoom&quot;&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+  
+
+&lt;article&gt;
+  &lt;section&gt;
+    &lt;p&gt;Теперь безопасности больше нет: везде холодные тона. Кадр, кажущий таким простым, по сути гениален: рыскающий луч фонаря создает эффект вида от первого лица, одновременно отбивая силуэт от фона. Отсвет слева обозначает границы: без него пропала бы большая часть объема комнаты.&lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+
+  
+    &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-42.jpg&quot; alt=&quot;Рыскающий луч фонаря создает эффект вида от первого лица&quot; data-action=&quot;zoom&quot;&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+  
+
+&lt;article&gt;
+  &lt;section&gt;
+    &lt;p&gt;Очень тёмная сцена не перестает захватывать внимание. Локи кадрирует взгляд зрителя лучем фонаря, показывая то, что нужно (и что он сам хочет увидеть). Размытый объект на первом плане ➁ добавляет глубины в композицию. Отблеск на потолке ➀ показывает высоту помещения: оно некомфортно низкое и давящее. &lt;/p&gt;
+  &lt;/section&gt;
+&lt;/article&gt;
+  
+  
+    &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-43.jpg&quot; alt=&quot;Герой кадрирует взгляд зрителя лучем фонаря&quot; data-action=&quot;zoom&quot;&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+  
+  
+  
+  
+    &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-44.jpg&quot; alt=&quot;&quot; data-action=&quot;zoom&quot;&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+  
+
+
+  
+    &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-45.jpg&quot; alt=&quot;&quot; data-action=&quot;zoom&quot;&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+  
+  
+  
+  
+    &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-46.jpg&quot; alt=&quot;&quot; data-action=&quot;zoom&quot;&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+  
+  
+  
+  
+    &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-47.jpg&quot; alt=&quot;&quot; data-action=&quot;zoom&quot;&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+  
+  
+  
+  
+    &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-48.jpg&quot; alt=&quot;&quot; data-action=&quot;zoom&quot;&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+  
+  
+  
+  
+    &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-49.jpg&quot; alt=&quot;&quot; data-action=&quot;zoom&quot;&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+  
+  
+  
+  
+    &lt;img src=&quot;/images/prisoners/frames/prisoners-scr-50.jpg&quot; alt=&quot;&quot; data-action=&quot;zoom&quot;&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+  
+
+
+
+&lt;header class=&quot;bgwhite txtblack&quot;&gt;&lt;div class=&quot;centerblock&quot;&gt;&lt;img src=&quot;/images/prisoners/cameras.jpg&quot; alt=&quot;Камеры Arri Alexa Plus и Arri Alexa Studio&quot;&gt;&lt;p&gt;Фильм снят на камеры Arri Alexa Plus и Arri Alexa Studio с объективами Zeiss Master Prime. Соотношение сторон 1.85:1.&lt;/p&gt;&lt;/div&gt;&lt;/header&gt; 
+
+
+
+
+&lt;div&gt;&lt;div class=&quot;navline&quot;&gt;
+&lt;article class=&quot;flex-menu &quot;&gt;
+
+  &lt;div class=&quot;bread&quot;&gt;
+  &lt;ol class=&quot;bread-list&quot;&gt;
+    &lt;li class=&quot;home&quot;&gt;&lt;a href=&quot;/&quot;&gt;Главная&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Визуальное повествование Пленниц&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+
+&lt;div&gt;&lt;form class=&quot;search-container&quot; action=&quot;https://www.google.com/search&quot; method=&quot;GET&quot;&gt;
+  &lt;input id=&quot;search-box&quot; type=&quot;text&quot; class=&quot;search-box&quot; name=&quot;q&quot; /&gt;
+  &lt;label for=&quot;search-box&quot;&gt;&lt;span class=&quot;search-icon&quot;&gt;&lt;svg xmlns=&quot;https://www.w3.org/2000/svg&quot; width=&quot;16&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot;&gt;&lt;path stroke=&quot;none&quot; fill-rule=&quot;inherit&quot; clip-rule=&quot;evenodd&quot; d=&quot;M16 14.5l-4.399-4.399a6.212 6.212 0 0 0 1.148-3.602 6.25 6.25 0 1 0-12.5 0 6.25 6.25 0 0 0 6.251 6.25 6.212 6.212 0 0 0 3.602-1.148L14.5 16l1.5-1.5zM1.25 6.501a5.251 5.251 0 1 1 10.502 0 5.251 5.251 0 0 1-10.502 0z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/label&gt;
+  &lt;!-- &lt;input type=&quot;submit&quot; id=&quot;search-submit&quot; /&gt; --&gt;
+  &lt;input type=&quot;hidden&quot; name=&quot;sitesearch&quot; value=&quot;likewhoa.ru&quot;&gt;
+&lt;/form&gt;&lt;/div&gt;
+
+&lt;div class=&quot;modal&quot;&gt;
+  &lt;a class=&quot;button&quot; href=&quot;#0&quot;&gt;Подписаться&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;/article&gt;
+&lt;/div&gt;
+
+&lt;!-- modal subscribe --&gt;
+
+  &lt;div class=&quot;cd-modal&quot;&gt; &lt;!-- this is the entire modal form, including the background --&gt;
+    &lt;div class=&quot;cd-modal-container&quot;&gt; &lt;!-- this is the container wrapper --&gt;
+          &lt;h3&gt;Подписка на блог&lt;/h3&gt;Через &lt;a href=&quot;http://likewhoa.ru/feed.xml&quot;&gt;RSS&lt;/a&gt; и &lt;a href=&quot;t.me/likewhoa&quot;&gt;телеграм&lt;/a&gt;
+          &lt;!-- &lt;a href=&quot;#0&quot; class=&quot;close-modal&quot;&gt;Close&lt;/a&gt; --&gt;
+    &lt;/div&gt; &lt;!-- cd-user-modal-container --&gt;
+  &lt;/div&gt; &lt;!-- cd-user-modal --&gt;&lt;/div&gt;</content><author><name></name></author><category term="reading" /><category term="кино" /><category term="анализ" /><summary type="html"></summary></entry><entry><title type="html">Статическая перезагрузка сайта</title><link href="http://likewhoa.ru/blog/going-static/" rel="alternate" type="text/html" title="Статическая перезагрузка сайта" /><published>2016-03-06T19:04:00+06:00</published><updated>2016-03-06T19:04:00+06:00</updated><id>http://likewhoa.ru/blog/going-static</id><content type="html" xml:base="http://likewhoa.ru/blog/going-static/">&lt;aside&gt;
+&lt;h1&gt;Статическая перезагрузка сайта&lt;/h1&gt;
+&lt;span class=&quot;icon&quot;&gt;&amp;nbsp;&lt;/span&gt;
+
+
+&lt;p class=&quot;subtitle&quot;&gt;Современные принципы веб-разработки требуют не меньшего внимания от дизайнера, чем проектирование видимой части сайтов. Ежедневно встречая незнакомые термины, чувствуешь себя явно отстающим.&lt;/p&gt;
+
+&lt;p&gt;Это всегда заставляло меня думать: «Вот дерьмо, я же ничего про это не знаю, надо скорее учиться». Но этот момент всегда откладывался, так как реальной причины изучить всё не было. Единственное, что могло дать толчок — сделать что-то свое, без особой ответственности перед другими, ведь явно не всё получится сразу.&lt;/p&gt;
+&lt;p&gt;Последние 5 лет все сайты клиентов, которые делала наша лаборатория, мои личные проекты и сайты друзей — все работали на CMS разной степени сложности. При этом у них у всех была одна общая черта: функциональность была запредельно высокой и явно избыточной. Например, у Вордпресса есть стандартная возможность обновлять сайт через iOS приложение. Насколько круто бы это не звучало, сама идея абсурдна: я ни разу в жизни не испытывал необходимости написать пост, находясь вдалеке от моего ноута. Особенно, если речь идет о большой странице с картинками.&lt;/p&gt;
+&lt;p&gt;Вторая общая черта этих CMS: все они работали с базами данных, как правило, MySQL. Все страницы генерируются на лету, движок оборачивает содержимое шаблоном и показывает пользователю на сайте. Это занимает некоторое время. Все осложняется различными плагинами, часто плохо написанными, особенностями настройки &lt;a href=&quot;http://wordpress.org/extend/plugins/w3-total-cache/&quot;&gt;W3 Total Cache&lt;/a&gt; и проблемами безопасности.&lt;/p&gt;
+
+&lt;h2&gt;Я маньяк контроля&lt;/h2&gt;
+
+&lt;p&gt;Основное, что подтолкнуло меня перейти на статические генераторы сайтов, это &lt;em&gt;контроль&lt;/em&gt;. Попытка приручить контент, обернутый петлями CMS, функциями и кодом, который я не до конца понимаю да и вовсе не писал, было пустой тратой времени. Сверстать шаблон для прошлого движка Эгея было пыткой: от версии к версии менялась внутренняя структура да и в целом существование проекта остается под вопросом.&lt;/p&gt;
+&lt;p&gt;Удовольствия это не приносило никакого и я забросил блог на год с лишним, даже не смотря на то, что под рукой теперь были инструменты для публикации в блог &lt;em&gt;откуда угодно&lt;/em&gt; и в &lt;em&gt;любое время&lt;/em&gt;. На выбор осталось 2 варианта: забросить все окончательно или построить систему с нуля, собственноручно, избавившись от всех ненужных свистелок и перделок.&lt;/p&gt;
+
+&lt;h2&gt;Приручение Jekyll&lt;/h2&gt;
+
+&lt;p&gt;Разбираться с базами данных и функциями вызова переменных не было никакого желания, делать разрозненные HTML-странички — тем более. Совершенно случайно под руку попался &lt;a href=&quot;http://cactusformac.com&quot;&gt;Cactus&lt;/a&gt; — предельно простой генератор статических сайтов, использующий язык шаблонов Jango. Но этот проект был слишком сырой и с мутными перспективами. Сложнее блога на стандартном макете или 2-3 страничек собрать в нем было рискованно: что-нибудь обязательно переставало работать или же требовало неординарных хаков. &lt;/p&gt;
+&lt;p&gt;На слуху был Jekyll, но он жутко пугал отсутствием интерфейса и массой незнакомых терминов. Но погуглив пару-тройку абстрактных вопросов относительно того, как в нём реализованы разные функции, сомнений не осталось: у джекила огромное сообщество, великолепная документация и мощная поддержка авторов проекта.&lt;/p&gt;
+
+&lt;p&gt;Теперь для публикации поста или страницы нужно:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Создать текстовый файл с разметкой Markdown.&lt;/li&gt;
+&lt;li&gt;Добавить YAML Front Matter заголовок в начало этого файла, в котором указано, какой шаблон использовать, мета-данные страницы (заголовок, время и дата создания), картинка обложки, категория и теги.&lt;/li&gt;
+&lt;li&gt;Запустить `jekyll` в терминале.&lt;/li&gt;
+&lt;li&gt;Загрузить готовый сайт на гитхаб.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Процесс может немного отличаться от раза к разу, но в целом это минимально необходимые шаги после того, как все шаблоны и блоки в `_layouts` и `_includes` сверстаны и подготовлены.&lt;/p&gt;
+&lt;p&gt;Процесс немногим более сложный, чем написание поста в Вордпрессе, ощутимо привлекательнее тем, что дает полный контроль над каждой мелочью. Я могу сам определить структуру сайта и папок, входящих в него; настроить иерархию; использовать любую автоматизацию, наподобие &lt;a href=&quot;http://gruntjs.com/&quot;&gt;Grunt&lt;/a&gt; для оптимизации всего на свете и т. д. Разумеется, все это доступно практически в каждой CMS, но далеко не всегда так же прозрачно и часто требует кастомизации и дописывания кода для корректной работы.&lt;/p&gt;
+&lt;p&gt;Нельзя не отметить, что Jekyll — не для каждого. С ним непременно придется испачкать руки, разбираясь в формировании XML карт сайта, RSS, функции вызова социальных кнопок и куче других вещей, которые есть в Вордпрессе сразу из коробки. Но для меня изучение этих деталей и создание чего-то с нуля несло намного больше вдохновение, чем установка очередного плагина в Вордпрессе, который сделает все автоматически.&lt;/p&gt;
+&lt;p&gt;Jekyll помог мне достичь нескольких важных целей: плотнее познакомиться с базовыми принципами HTML5 и CSS3; дал возможность делать страницы с уникальным в рамках сайта дизайном и структурой; разобраться с CSS препроцессорами типа &lt;a href=&quot;http://lesscss.org/&quot;&gt;LESS&lt;/a&gt; и перестать теряться в гигантском файле стилей и сделать сайт адаптивным.&lt;/p&gt;
+
+&lt;h2&gt;Что вдохновило в процессе&lt;/h2&gt;
+
+&lt;h3&gt;HTML5 Boilerplate&lt;/h3&gt;
+
+&lt;p&gt;Одной из самых значимых вещей в процессе ознакомления с HTML5 было изучение &lt;a href=&quot;http://html5boilerplate.com/&quot;&gt;HTML5 Boilerplate&lt;/a&gt;. Все файлы очень подробно прокомментированы, поэтому понять что, как и почему используется действительно легко. В качестве удобного справочника по элементам типа `figure`, `section`, `article` и т.д. я использовал &lt;a href=&quot;http://html5doctor.com/ «HTML5 Doctor»&quot;&gt;HTML5 Doctor&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Less is More&lt;/h3&gt;
+
+&lt;div class=&quot;with-side&quot;&gt;
+&lt;p&gt;Принцип препроцессоров отпугнул меня сразу, как только я впервые услышал про &lt;a href=&quot;http://lesscss.org/&quot;&gt;Less&lt;/a&gt; и &lt;a href=&quot;http://sass-lang.com/about/&quot;&gt;Sass&lt;/a&gt;. Борьба с CSS в факультативном режиме и так довалась мне не легко, а внесение еще одного уровня сложности к этому казалось абсурдным. Вторым знакомством была попытка хотя бы поэкспериментировать с Less, тем более нашелся простой и наглядный инструмент — &lt;a href=&quot;https://incident57.com/codekit/&quot;&gt;CodeKit&lt;/a&gt;. Принцип использования переменных для шрифтов и цветов выглядел привлекательно, но будучи дизайнером мне не сильно-то хотелось сталкиваться с это не-совсем-дружелюбной-средой из области программирования.&lt;/p&gt;
+	&lt;div class=&quot;side&quot;&gt;
+    	&lt;span&gt;
+    		К моменту создания текущей темы оформления я перешел с Less на Sass, полюбил &lt;a href=&quot;http://bourbon.io/&quot;&gt;Bourbon&lt;/a&gt; &lt;del&gt;за название&lt;/del&gt; а так же &lt;a href=&quot;http://neat.bourbon.io/&quot;&gt;Neat&lt;/a&gt; для управления mixin’ами и сеткой.
+    	&lt;/span&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;p&gt;Основная прелесть Less для меня — синтаксис. Можно даже ничего не менять в существующих css файлах, достаточно было изменить расширение файлов с .css на .less и все уже работало. Все новое можно внедрять постепенно. Использование переменных и миксинов помогает очень быстро собрать прототип страницы и позволяет мыслить модульно и комплексно.
+&lt;/p&gt;
+
+&lt;h2&gt;Модульные сетки&lt;/h2&gt;
+
+&lt;p&gt;Больше всего в модульных сетках меня отталкивает их антисемантическая структура. Я никогда не хотел дружить с абстрактными `.grid_x`, .`push_x` или `col_x`. Это здорово для больших проектов, быстрого прототипирования или разработки, но в своем проекте хотелось обойтись ванильным css. Не сказать, что это получилось идеально, но благодаря &lt;a href=&quot;http://coding.smashingmagazine.com/2011/08/23/the-semantic-grid-system-page-layout-for-tomorrow/&quot;&gt;ряду статей&lt;/a&gt; и &lt;a href=&quot;http://semantic.gs/&quot;&gt;проектов&lt;/a&gt; задел на будущее сделан.&lt;/p&gt;
+
+&lt;h2&gt;Перезагрузка проекта&lt;/h2&gt;
+
+&lt;p&gt;Переход на Jekyll подтолкнул меня к полной реструктуризации сайта. Я буду стараться писать большие и цельные статьи в блог, с нормальным оформлением, а мелкие заметки, цитаты и картинки переедут на отдельную страницу или в свой раздел.&lt;/p&gt;
+
+&lt;h2&gt;Что осталось доделать&lt;/h2&gt;
+
+&lt;p&gt;Перенос постов из прошлого движка наконец-то завершен, в чем мне сильно помог &lt;a href=&quot;https://ru.wikipedia.org/wiki/Automator&quot;&gt;Автоматор&lt;/a&gt; в OS X. Хоть записей в блоге не так уж и много, но заполнить для каждого имя файла и 5-6 полей в YAML-заголовке — ужасная рутина. Многим не хватает новых элементов, которых не было в прошлом шаблоне: обложки и превью страницы; большого количества новых блоков верстки типа сносок и так далее.&lt;/p&gt;
+
+&lt;h3&gt;Адаптивная графика&lt;/h3&gt;
+
+&lt;p&gt;Отдельным пунктом стоит доработка и оптимизация картинок. Если остальные составляющие оптимизированы худо-бедно, то с картинками придется основательно потрудится. Сейчас они оптимизированы алгоритмами сжатия без потерь, что экономит до 60% веса файла, но все равно загружаются в полном масштабе. Научить Джекилл нарезать их для в разных размерах для десктопов и смартфонов еще предстоит и будет &lt;a href=&quot;http://www.alistapart.com/articles/responsive-images-how-they-almost-worked-and-what-we-need/&quot;&gt;очень не просто&lt;/a&gt;, так что этот пункт задвинут в самый конец очереди.&lt;/p&gt;
+
+&lt;h3&gt;Контроль версий&lt;/h3&gt;
+
+&lt;p&gt;Выкладывать исходники сайта в открытый доступ пока не хватает духу, ребята засмеют же. Так что для контроля версий я использую приватный репозиторий на BitBucket, в то время как сайт публикую на &lt;a href=&quot;http://github.com/antown&quot;&gt;GitHub&lt;/a&gt;. Такое разделение позволяет познакомиться с системами более плотно и выбрать более удобную, раз уж они обе поддерживают бесплатный хостинг статических сайтов.&lt;/p&gt;
+
+&lt;/aside&gt;</content><author><name></name></author><category term="blog" /><category term="джекил" /><category term="сайт" /><category term="статический генератор" /><summary type="html">Статическая перезагрузка сайта &amp;nbsp;</summary></entry><entry><title type="html">UI/UX</title><link href="http://likewhoa.ru/blog/ui-ux/" rel="alternate" type="text/html" title="UI/UX" /><published>2016-02-12T02:01:00+06:00</published><updated>2016-02-12T02:01:00+06:00</updated><id>http://likewhoa.ru/blog/ui-ux</id><content type="html" xml:base="http://likewhoa.ru/blog/ui-ux/">&lt;aside&gt;
+&lt;h1&gt;UI/UX&lt;/h1&gt;
+&lt;span class=&quot;icon&quot;&gt;&amp;nbsp;&lt;/span&gt;
+&lt;p&gt;Дизайн на вебе — это уже давно не про фотошоп совсем. И не про красоту. Это про эмпатию, про а/б тесты, про кастомер джорни мапы, про бизнес-цели, метрики, конверсии, отказы, вовлечение, глубину и еще кучу всяких терминов. Эстетика и владение инструментом для любого дизайнера — это как умение ходить и говорить для любого студента. Никто за умение просто говорить не возьмет тебя в ВУЗ. Так и в дизайне — за владение фотошопом никто тебя не возьмет на работу.&lt;/p&gt;
+
+&lt;p&gt;Потому везде и пишут UI/UX — чтобы люди из печати (классического дизайна) не присылали свои резюме. UI/UX — инженерная наука, нужно много чего знать про поведение пользователей, привычные паттерны взаимодействия, понимать тренды в вебе, как что верстается и можно ли то или это в принципе сверстать, учитывать разные размеры браузеров и девайсов и т. д. То есть, к академическому или полиграфическому дизайну эта область не имеет никакого отношения.&lt;/p&gt;
+&lt;/aside&gt;</content><author><name></name></author><category term="blog" /><category term="веб" /><category term="дизайн" /><summary type="html">UI/UX &amp;nbsp; Дизайн на вебе — это уже давно не про фотошоп совсем. И не про красоту. Это про эмпатию, про а/б тесты, про кастомер джорни мапы, про бизнес-цели, метрики, конверсии, отказы, вовлечение, глубину и еще кучу всяких терминов. Эстетика и владение инструментом для любого дизайнера — это как умение ходить и говорить для любого студента. Никто за умение просто говорить не возьмет тебя в ВУЗ. Так и в дизайне — за владение фотошопом никто тебя не возьмет на работу.</summary></entry><entry><title type="html">Интерес и важность</title><link href="http://likewhoa.ru/blog/interest/" rel="alternate" type="text/html" title="Интерес и важность" /><published>2016-01-23T00:00:00+06:00</published><updated>2016-01-23T00:00:00+06:00</updated><id>http://likewhoa.ru/blog/interest</id><content type="html" xml:base="http://likewhoa.ru/blog/interest/">&lt;article&gt;
+  &lt;p&gt;Людвиг Быстроновский&lt;/p&gt;
+
+  &lt;blockquote&gt;Конспект даже отдаленно не передает харизму и эмоции. При первой же возможности рекомендую вам сходить на лекцию Людвига, он офигенно рассказывает.&lt;/blockquote&gt;
+
+  &lt;h3 id=&quot;section&quot;&gt;Кто рассказывает?&lt;/h3&gt;
+
+  &lt;p&gt;Это важно, потому что иногда люди приходят и говорят: &lt;em&gt;«Очень было интересно, очень круто! А где вы работаете?»&lt;/em&gt; Я работаю дизайнером и арт-директором с 1994 года, то есть уже 22 года. Живу в Москве. Зовут меня Людвиг Быстроновский. Последние 10 лет работаю в студии Артемия Лебедева, работаю дизайнером и арт-директором. По образованию я программист, теории дизайна я учился совсем немножко, я пошел в школу, когда уже был арт-директором — понял, что нужны какие-то системные знания. Но учиться бросил. Все мое образование — практическое, плюс я самоучка: что успеваю помимо задач на работе поизучать, почитать и посмотреть, то все мое.&lt;/p&gt;
+
+  &lt;p&gt;За это время у меня на сайте студии около 350 анонсов, то есть это те проекты, к которым я имею отношение: или где-то там рядом стоял, мимо проходил, либо сделанные при моем непосредственном участии или руководстве. Я хожу по Москве и в среднем где-то каждые 3 минуты вижу дизайны, сделанные в студии моими коллегами и где-то раз в 5-7 минут вижу дизайн, который имеет ко мне непосредственное отношение. Проектов много, опыт есть: в моем портфолио есть журналы, сайты-многомиллионники, схема метро столицы, есть системы навигации, мобильные приложения. Клиенты: госкомпании, мобильные операторы, крупный бизнес, мелкий бизнес, города — достаточно широкий спектр работ.&lt;/p&gt;
+
+  &lt;hr /&gt;
+
+  &lt;p&gt;Рассказ пойдет про приемы, которые применяют люди. Я бы хотел сначала рассказать, что такое люди для меня, как я понимаю людей. Во-первых начнем с самого важного человека в этом зале. Самый важный человек в этом зале — это вы. Я буду рассказывать лекции, опираясь на свой опыт, про себя. 
+Естественно, я бы хотел, чтобы вы услышали лекцию не про меня, а про себя, сравнили её с тем опытом, что есть у вас. Потому что с кем-то в чем-то мы похожи; кто-то пошел дальше чем я; с кем-то мы не похожи и я расскажу чем мы отличаемся и вы сможете это сравнить. То есть, в каком-то смысле, вам тяжелее: вам придется не только слушать, но еще и обрабатывать это и думать.&lt;/p&gt;
+
+  &lt;p&gt;Как устроено все у меня: меня привлекают сложные системы. Это такая база, от которой я не могу никуда деться всю свою жизнь. Бывают такие мальчики, которые видят, к примеру, часы разобранные лежат, куча шестеренок. И тут ребята кричат:  &lt;em&gt;«Айда, побежали в казаки-разбойники!»&lt;/em&gt; Нет, мальчик не с ними: он смотрит на механизм, он пытается понять как что устроено, голова наклонилась, слюнка течет. Он заворожен. Вот я из таких ребят, которые залипают. И с этим я ничего поделать не могу. Есть люди, которые внутри устроены так, что жаждут простора. Я же все время попадаюсь на одном и том же: я жажду сложного. Сложные системы — это то, что меня всегда гипнотизирует.&lt;/p&gt;
+
+  &lt;p&gt;Если я делаю дизайн, меня в первую очередь интересует как устроено изготовление дизайна, технологии, как все это движется, кто все это делает. И в определенном смысле, меня больше интересует система изготовления, чем тот продукт, который получается. Когда я делал журналы, меня интересовало не то, что люди будут его читать, а то как должна быть устроена система его производства. Как написать все макросы, чтобы журнал верстался одной кнопкой.&lt;/p&gt;
+
+  &lt;p&gt;И когда я начал работу дизайнером, я начал проектировать все более и более сложные системы. Они становились все изощреннее и изощреннее, но в какой-то момент я ощутил очень сильный шум, что-то мешало. Ты думаешь, что все пойдет вот так, проектируешь, предполагаешь какой будет финал, но обязательно всегда что-то идет не так. Что-то очень сильно мешает, вносит большие искажения. Я начал думать, что же именно и в конце-концов понял: это люди.&lt;/p&gt;
+
+  &lt;p&gt;Ты можешь планировать как угодно, люди все сделают не так. Самое интересное, что один из этих людей — это я. Сегодня я думаю, что все пойдет вот так, а завтра я собственный план превращаю просто в ничто. И так как люди постоянно угрожали состоянию моих любимых сложных систем, мне пришлось присмотреться к ним, как они устроены, как работают? Почему у него истерика, почему его выносит? Почему он не может сесть и нормально сделать дизайн в срок? Что у него происходит в голове? И приходя к этому вопросу, как же устроены люди, я понял, что они гораздо сложнее всех систем, которые я все время пытался проектировать. Люди очень сложны.&lt;/p&gt;
+
+  &lt;p&gt;Начал читать как люди принимают решения, что ими движет, что у них внутри, как они думают. Одним словом, люди меня заворожили. Человек, конечно, в первую очередь это тело, мы все живем, опираясь на то тело, которое у нас есть, сложившееся в ходе эволюции. Это слишком простое объяснение, но оно не полное, потому что как в таком случае можно объяснить существование девочки-готки, например? Или ребят, которые в Нескучном саду в Москве палками махаются?&lt;/p&gt;
+
+  &lt;p&gt;Как объяснить то, что я пишу письмо коллегам… я получаю в бэйскампе весточку, что клиент сказал то-то и то-то, я пишу письмо коллегам:  &lt;em&gt;«Да они полные пидорасы»&lt;/em&gt;. И в этот момент я понимаю, что письмо отправлять, наверно, не надо, потому что не очень понятно что с этим будут делать люди. Вот получили они такое письмо, письмо гнева, письмо боли, и делать-то дальше что они должны? Я понимаю, что надо что-то поменять, иду на кухню, пью чай, возвращаюсь и переписываю письмо. Потом подумал:  &lt;em&gt;«Нет, надо еще раз, перепиши письмо»&lt;/em&gt;… На десятый раз я пишу письмо:  &lt;em&gt;«Вы знаете, коллеги в чем-то правы. Давайте попробуем!»&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;Я думаю:  &lt;em&gt;«Окей. Да, они полные пидорасы. Но в чем-то правы»&lt;/em&gt;, 
+— Людвиг, ты вообще адекватен? Какой из этих твоих сущностей можно доверять? 
+Я же был уверен, что все правильно. Пылал праведным гневом, потому что нормальные люди не пишут таких вещей, когда уже все почти закончено.
+Это ставило передо мной вопрос, какой же я в итоге правильный: я тот или я этот? И я прихожу к такому выводу, что люди — вымышленные существа.&lt;/p&gt;
+
+  &lt;p&gt;Мы живем на базе нейросети, мозг делает с нами интересную штуку: он создает реальность, в которой мы живем. На самом деле это выдуманная реальность, нам кажется, что мир такой. Вот здесь мы думаем, что весь мир темный и силы ада собрались, чтобы наш проект завалить. А там мы думаем, что все, в общем-то, нормально, просто нужно немножко терпения и спокойствия. На самом деле это вопрос состояния, это вопрос о том, что перед нами, условно, дымное стекло и мы видим весь мир мутным или же стекло абсолютно ясное и ничего не искажает.&lt;/p&gt;
+
+  &lt;p&gt;Я понимаю, что есть люди, которые и в первом состоянии проведут, к примеру, 50 лет, живут так и умрут так. А есть люди, которые не хотят жить так. Я не думаю, что это состояние человек может переключить сам. Это как в кино, когда режиссер решает на 30 минуте, что герой-задрот станет главным героем, который спасет всех из горящего небоскреба. Он сможет, он будет крутым! И оказалось, что эта история, про то как люди могут начать жить по-другому, она очень простая.&lt;/p&gt;
+
+  &lt;p&gt;Вы просто меняете свое состояние и с этого момента начинаете быть совсем другим человеком. Как вы решите, так и будет. Вы решите, что будете героем — ну и будьте героем. Решите, что проживете всю жизнь в сомнениях — ну и будете жить в сомнениях. Вопрос в том, что вы можете быть и таким, и другим. Иногда за вас решают, иногда вы решаете — у кого на сколько хватает сил.&lt;/p&gt;
+
+  &lt;p&gt;Поэтому, я считаю, что люди смотрят на мир как будто сквозь маленькое оконце.&lt;/p&gt;
+
+  &lt;p&gt;Перейдем к базису, давайте поговорим про то, что это все за голословные утверждения.&lt;/p&gt;
+
+  &lt;h3 id=&quot;section-1&quot;&gt;Как человек обращает внимание на те или иные вещи&lt;/h3&gt;
+
+  &lt;p&gt;Я стою на мосту, мне приходит от клиента письмо. Он пишет: &lt;em&gt;«Наш фирменный стиль настолько классный, что он хочет перед тем, как его окончательно подписать, поделиться им с другими дизайнерами. И поэтому он собрал коллоквиум в ресторане. Там будет 30 человек. Он позвал огромное количество моих коллег и покажет им дизайн, чтобы понять все его плюсы и минусы»&lt;/em&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Я стою и думаю: &lt;em&gt;«БЛЯТЬ! Что вы делаете?! Вот мне только этого сейчас не хватало!»&lt;/em&gt;. Реальная история, было 5 лет назад. &lt;em&gt;«Все же было хорошо, — думаю я, хороший был фирменный стиль…»&lt;/em&gt; Я пишу старшим ребятам в конторе: &lt;em&gt;«Чуваки! АААА»&lt;/em&gt; и в ответ приходит смс из двух слов, там написано: &lt;em&gt;«Завидую тебе»&lt;/em&gt;.&lt;/p&gt;
+
+  &lt;p&gt;И я думаю: &lt;em&gt;«Хмм, слушай, а ведь на самом деле, стиль-то не плохой. Показать коллегам можно, мне будет не стыдно. Почему истерика? Классно встретимся, поговорим, обсудим. Увидим друг друга, опять же, встречаемся-то не каждый день»&lt;/em&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Что произошло в этот момент? Почему вдруг появилась опора, почему выплеснулся адреналин?&lt;/p&gt;
+
+  &lt;p&gt;Потому, что поменялось внимание. Мое внимание захватывали вещи, обычные для человека истерички: «все пропало, все будет ужасно, только этого не хватало». А здесь изменилось внимание. Человек обращает внимание на мир, он может выхватывать те детали или эти детали. Никто из вас сейчас, среди тех, кто есть в этом офисе, из людей, которые пробыли здесь уже 14 минут, не может сказать, сколько сзади вас окон. Вы не обратили на это внимания. Если бы вы были из фирмы, которая ставит окна, то вы бы уже знали не только количество окон, но и сколько там фрамуг. Вы бы знали деревянные это окна или пластиковые. Какого они цвета. Какая фурнитура стоит. Потому что вы бы обратили на это внимание.&lt;/p&gt;
+
+  &lt;p&gt;Ученые берут испытуемых и начинают им показывать буквы. Показывают каждую раз в полсекунды, к примеру. Испытуемый эти буквы произносит вслух. Между букв начинают показывать цифры. И люди их не видят. Ваше внимание фрагментарно, вы выхватываете то, что происходит в мире несколько раз в секунду, обращаете внимание на какие-то кусочки. У вас создается полнейшая иллюзия того, что вы понимаете все, что вокруг вас. Это не так.&lt;/p&gt;
+
+  &lt;p&gt;Когда вы смотрите на мир в состоянии депрессии, когда у вас все пропало, вы обращаете внимание на одни вещи. Когда вы говорите себе: &lt;em&gt;«Calm the fuck down! Давай смотреть на другие вещи»&lt;/em&gt;, — вы начинаете думать по-другому. Это к вопросу об управлении вниманием. В определенном смысле, конструируя внимание человека, конструируя его состояние, можно конструировать то, как он думает. И это состояние меня волнует, как и волнует состояние моих коллег. Потому, что когда я вижу, что менеджеру в ухо вставили шуруп боли в телефонном разговоре, и он от этого шурупа начинает просто бежать, крича: &lt;em&gt;«Все пропало!!!»&lt;/em&gt;… он пишет письмо боли. Как понять что пришло письмо боли? Там 10 адресатов. Там написаны очень важные вещи:&lt;/p&gt;
+
+  &lt;p&gt;&lt;em&gt;— Сегодня мне позвонил клиент.&lt;br /&gt;
+— Да, и что?? Это всем нужно знать?&lt;br /&gt;
+— Сроки сорваны!&lt;br /&gt;
+— А что, кто-то не знает этого?&lt;br /&gt;
+— Я не знаю что вы все будете делать, сделайте что-нибудь, я вас всех ненавижу…аааа…&lt;br /&gt;&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;Что нужно сделать в этот момент? Нужно изменить состояние человека. Обсуждать с ним что-то в этом состоянии бессмысленно. Потому что когда &lt;em&gt;такой&lt;/em&gt; человек проблему решает, понятно как оно там решается… Имеет смысл его остановить, успокоить. И вот это дымное стекло заменится каким-то другим стеклом.&lt;/p&gt;
+
+  &lt;p&gt;Я говорю: &lt;em&gt;«Ну окей, давай спустим праздничные флаги, потому что в Москве впервые в этом веке не соблюдаются сроки. Событие городского масштаба. Люди сталкиваются с этим каждый день! Давай подумаем, что произошло и что с этим делать?»&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;Можно позвать человека чаю попить, иногда помогают физические упражнения, можно по лестнице побегать. Но в конце концов, какой прием бы вы ни применили, просто помните, что иногда нужно внимание людей переключать. Пошути. Шутка очень хорошо помогает. Лучшие в мире шутники и знатоки юмора — это ребята из спецназа. Шутки про трупы — самые отточенные. Они знают, что юмор помогает выживать.&lt;/p&gt;
+
+  &lt;blockquote&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.mann-ivanov-ferber.ru/books/ostatsya_v_zhivyh/&quot;&gt;Лоуренс Гонсалес. Остаться в живых.&lt;/a&gt;&lt;/p&gt;
+  &lt;/blockquote&gt;
+
+  &lt;p&gt;Это я прочел в книжке Гонсалеса про то, как люди выживают, он рассказывает про этот феномен, что юмор очень сильно спасает в стрессовой ситуации. Вы можете это использовать для того, чтобы переключать состояние людей.&lt;/p&gt;
+
+  &lt;p&gt;Это было немного про людей, про состояние. Я уверен, что люди, которые много работают с другими людьми, например, следователь: он задает вопрос и видит в какое состояние вы переходите. Один-два вопроса и он все о вас знает. Опытные тренеры, опытные следователи, опытные переговорщики, гаишники. Небольшое касание и вы сразу же показываете, как вы реагируете. Можно даже начать с себя, чтобы понаблюдать за этим. Я использую себя как лабораторию, у меня есть несколько индикаторов: есть одна из песен, которая показывает, что я в полнейшем дауне и пора выходить из депрессии. Сам я это не очень хорошо замечаю, но если я люблю ее слушать, значит все, время пришло. То, как я печатаю на клавиатуре. То есть, если я вхожу в раж и начинаю сильно бить пальцами, то значит надо закрывать крышку и заканчивать, потому что ничего путного ты не напишешь, а завтра придешь на работу и будешь от коллег прятаться. Иногда прямо стыдно бывает, думаешь: &lt;em&gt;«Ну какой ты мудак, зачем написал? Ты же знаешь, что не надо было этого делать»&lt;/em&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Вы можете попробовать следить за своим состоянием, как вы себя ведете в той или иной ситуации. Кто кем управляет: вы эмоциями или эмоции вами. Есть ребята, которые полностью управляют эмоциями. Я не из таких. Мои эмоции управляют мной.&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;/images/reading/interest-1.png&quot; alt=&quot;Процесс приобретения навыков&quot; /&gt;&lt;/p&gt;
+
+  &lt;p&gt;Система выглядит так: есть &lt;strong&gt;знания&lt;/strong&gt;. Например, вы прочли правила дорожного движения и хотите научиться водить автомобиль. В какой-то момент знания должны перейти в &lt;strong&gt;умения&lt;/strong&gt;: вы должны научиться заводить машину, попробовать рулить, тронуться, остановиться и так далее. Но умения — это не то что вам нужно, чтобы автоматически и постоянно управлять автомобилем. Вы хотите автоматизма, значит умение должно превратиться в &lt;strong&gt;навык&lt;/strong&gt;. Вы должны очень хорошо освоить то, как заводить, трогаться, быстро реагировать на изменения дорожной ситуации — это навык. Дальше автоматизм еще сильнее увеличивается, возникает &lt;strong&gt;привычка&lt;/strong&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Как правило, привычками вы не можете управлять. Вы садитесь в машину, включаете музон и это происходит без вашей воли. Знания же не происходят автоматически, вы должны просто &lt;em&gt;знать&lt;/em&gt;.&lt;/p&gt;
+
+  &lt;p&gt;У меня ситуация такая, что у нас с ребятами дизайн-завод, в котором нужно постоянно делать хороший дизайн. Мы не можем опираться только на то, что мы знаем, что нужно делать хороший дизайн. Мы не можем каждый раз, как в первый раз пытаться делать хороший дизайн, нам нужен &lt;em&gt;навык&lt;/em&gt;. Меня интересуют навыки. Меня интересует, чтобы это происходило практически автоматически. И я считаю, что огромное значение имеет сумма навыков.&lt;/p&gt;
+
+  &lt;h2 id=&quot;section-2&quot;&gt;Что это такое?&lt;/h2&gt;
+
+  &lt;p&gt;Представим себе баскетбольную площадку. Пусть у нас идет первый месяц обучения команды девочек. Я провел несколько лет, время от времени сидя на трибунах и наблюдая как тренер обучает детскую команду девчонок. Там у них творится полный ад. Они все бегают за мячом, не знают еще что делать с ним, у них нет навыков. И, предположим, что ребенок хватает мяч и пытается кое-как довести его до кольца. Тренер ему кричит: &lt;em&gt;«Не смотри на мяч, не смотри в пол!»&lt;/em&gt;, потому что тренер знает, что надо поднять голову и смотреть по сторонам. Ребенок долбит мяч об пол, долбит… естественно, теряет его, он не наблюдает за ситуацией на площадке.&lt;/p&gt;
+
+  &lt;p&gt;Давайте посмотрим, как ребенок добегает кое-как и пытается бросить, у него не получается. Остановим эту сцену, перемотаем и пройдем по ней в замедленном режиме. Поднимем голову повыше нашему маленькому спортсмену, руку чуть-чуть оттянем, вес распределим по-другому, пальцы нужно расслабить, чуть присогнем колени. Бьем рукой мяч, делаем один шаг, чуть дальше переводим шаг, перенос веса убрали и так далее. Так мы доводим его до кольца, показываем: подними руку чуть выше, расположи таз вот так, вот так вот спину, вот так — локти. Туда кидай, руки продлевают движение — забил.&lt;/p&gt;
+
+  &lt;p&gt;Что происходит? Как человеку удалось закинуть мяч с нашей помощью? Мы чуть-чуть поправили здесь, чуть-чуть поправили там, чуть-чуть перенесли вес. Мы сделали огромное количество мелких, очень маленьких улучшений. Так люди и становятся мастерами. Если вы разберете прыжок олимпийского чемпиона, вы увидите, что просто человек пришел к правильной физической форме к старту, просто он хорошо и правильно дышит. Просто правильно разбежался, перенес вес, оттолкнулся, сложил руки, летит. Спружинил, приземлился, дышит по-прежнему хорошо. Огромное количество мелких отточенных вещей.&lt;/p&gt;
+
+  &lt;blockquote&gt;
+    &lt;p&gt;— Как стать мастером?&lt;br /&gt;
+— Точи мелочи!&lt;/p&gt;
+  &lt;/blockquote&gt;
+
+  &lt;p&gt;Вот и все. Ты просто берешь и узнаешь, как должно работать меню. Ты чуть-чуть улучшаешь свое знание типографики. Ты немножко изучаешь то, какие должны быть и не должны быть формы. Ты понимаешь, что люди нажимают пальцами. Ты делаешь один миллион мелких улучшений. Ты приобретаешь какие-то рабочие навыки. И сумма навыков делает из людей хороших профессионалов.&lt;/p&gt;
+
+  &lt;p&gt;Иначе не бывает. Иначе не будет большого количества попаданий в цель, а будут случайности. Можно один раз сделать классный дизайн, но невозможно случайно сделать классный дизайн очень сложной вещи. Я уверен, что так не бывает: &lt;em&gt;«Ой, знаете, у нас случайно здесь получилась классная космическая ракета»&lt;/em&gt;. Так не бывает, потому что это слишком сложно! В очень сложных вещах людям нужна сумма навыков.&lt;/p&gt;
+
+  &lt;p&gt;И если вы умеете ставить ногу, дышать, приходить в форме к старту, разбегаться и хорошо прыгать, из вас не получится плохой спортсмен. Ну просто так не бывает, что он все сделал хорошо, но он плохой. Нет. Вот, собственно, в этом и секрет. Я вижу как работают хорошие дизайнеры, хорошие менеджеры. У них огромное количество мелких, отточенных навыков.&lt;/p&gt;
+
+  &lt;p&gt;Дело в том, что это дает нам понимание, о том, что раз за разом, выходя на старт, можно оттачивать что-нибудь, постепенно. Дизайнеры ломаются на чем: им нужно, чтобы весь их проект был прекрасен. Они начинают показывать дизайн, говорят: &lt;em&gt;«Можешь посмотреть сайт, я сделал?»&lt;/em&gt; Я говорю: «Да, могу. Давай». Еще хорошо, если он его в реальности показывает, обычно дизайнеры стремятся все его на Бехансе показать, вставленный в Маке, еще такой блик по диагонали должен быть. Он показывает: «Вот, я сделал сайт». Я жду. Контрольное время — три секунды. Через 3 секунды прозвучит мантра: &lt;em&gt;«Ну тут сделано не все, как я хотел. Вот сюда не смотри, вот это немножко не так должно быть, тут мне все испортили…»&lt;/em&gt; И это делают все! Так делает каждый! Людям почему-то кажется, что они выходят на старт и они непременно должны получить стопроцентно классный результат после первого, второго или третьего старта.&lt;/p&gt;
+
+  &lt;p&gt;Но так же не бывает. Посмотрите на биатлонистов. В этом сезоне он пробежал классно, отстрелял хреново. Что он делает? Он снова выходит на старт. Он знает, что надо учиться еще лучше стрелять и немножко бежать. Он выходит еще и еще, он оттачивает навыки.&lt;/p&gt;
+
+  &lt;p&gt;Тренер им говорит (баскетболисткам): «Сегодня учимся отдавать пасс». В этой игре вы все просрали, счет был 13:94, но зато в середине ты классно отдала ей пасс, ты молодец. Тренер обращает внимание на &lt;em&gt;один&lt;/em&gt; навык.&lt;/p&gt;
+
+  &lt;p&gt;Поэтому выполняя задачу за задачей, вы оттачивая небольшие навыки — вы делаете очень правильное дело. Не требуйте того, чтоб у вас непременно получилось все и сразу. Так не бывает. Достаточно того, что вы поставите себе в конкретном проекте цель: &lt;em&gt;«Хочу наконец-то понять, как нормально верстать»&lt;/em&gt;, — например. Весь остальной проект вас не удовлетворяет, окей, но с этим-то хотя бы разберитесь. Можно закрывать очень маленькие проблемы.&lt;/p&gt;
+
+  &lt;p&gt;И отсюда вытекает следующая важная особенность: если вы делаете 3 проекта в год и если вы делаете 100 проектов в год, то у вас получается совсем разное количество полян для оттачивания навыков. Предположим, что удача у всех одинаковая. Предположим, что есть дизайнер (как я), у которого получается 3 удачных проекта из 100. И я беру и делаю эти сто проектов. А другой чувак делает два. И у меня будет три золотых удачи. А у него ни одной. Просто потому, что он мало делает.&lt;/p&gt;
+
+  &lt;blockquote&gt;
+    &lt;p&gt;— Как стать хорошим профессионалом, как стать крутым?&lt;br /&gt;
+— Да просто больше делай.&lt;/p&gt;
+  &lt;/blockquote&gt;
+
+  &lt;p&gt;Это настолько просто, что люди этого не понимают. У кого из вас есть незаконченное портфолио, которое вы не обновляли уже год, поднимите руку? Добро пожаловать в клуб. Вы теряете возможность делать интересную задачу. И я считаю, что нельзя позволять себе эту роскошь.&lt;/p&gt;
+
+  &lt;p&gt;Если у тебя уже полно задач, бери еще одну. Нужно чтобы пар из-под пароварки вырывался. Менеджер спрашивает:&lt;/p&gt;
+
+  &lt;p&gt;&lt;em&gt;— Вот дизайнер делает три задачи, можно дать ему четвертую?&lt;br /&gt;
+— А че, как он, успевает?, — спрашиваю я.&lt;br /&gt;
+— Да.&lt;br /&gt;
+— Давай.&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;Потом он подходит: &lt;em&gt;«Ну вот все, теперь он не успевает,&lt;/em&gt; — я говорю, — &lt;em&gt;Ну, тогда все окей».&lt;/em&gt; Тогда есть пространство для роста. Когда все хорошо и можно не трепыхаться, значит встал, все плохо, расти некуда.&lt;/p&gt;
+
+  &lt;h2 id=&quot;section-3&quot;&gt;Сумма навыков&lt;/h2&gt;
+  &lt;p&gt;Есть ребята, которые тратят всю жизнь на какое-то безумное количество говна. Они делают проекты, вроде бы чем-то все время заняты, а роста никакого не происходит. Как с этим быть? Я вижу таких ребят, они не растут. У меня есть такие знакомые. Вот встречался с ними 12 лет назад, они рассказывали, что заказчики козлы, кто-то им сказал, что можно металлический пантон лаком покрывать и они задолбались править их дизайн перед сдачей в печать. Вот такая у них проблема. Встречаешься с ними через 12 лет, они рассказывают, что заказчики козлы, они пробуют металлический пантон покрывать лаком… Вроде бы они все делают, много работы, вал какой-то идет, но роста не происходит. Не происходит перехода в профессионалы.&lt;/p&gt;
+
+  &lt;p&gt;Меня интересуют навыки. Но дело в том, что я не умею эти навыки у себя вырабатывать. Есть волевые ребята, которые решают: &lt;em&gt;«Я буду делать зарядку каждый день»&lt;/em&gt;. И делают.&lt;/p&gt;
+
+  &lt;p&gt;Когда я решаю, что буду делать зарядку каждый день, я делаю её два дня. А потом я её не делаю. И не делаю достаточно долго. А потом снова делаю. Я понимаю, что сила воли — это совсем не про меня. Я человек-тряпка, мне нужно что-то другое. Я не могу просто так включить у себя из умения навык. И здесь мне помогают приемы.&lt;/p&gt;
+
+  &lt;h2 id=&quot;section-4&quot;&gt;Приемы&lt;/h2&gt;
+  &lt;p&gt;Приемы — это то, что меня спасает. Например, мне нужно собрать материал. Я о нем все время думаю. Это нужно как-то записать, разложить, материала очень много. Я говорю себе: «Надо собрать материал. Надо собрать материал». Я все время это откладываю, потому что невозможно же просто сесть и собрать материал, нужно вдохновение. Тут официант очень громко разговаривает в кафе, нужно идти в другое! Ах, черт, ушло настроение. Нужно собрать материал в другой день. Попробую просрать на это все воскресение. Приходит воскресение, соседи решили посверлить. Все, еще нужна неделя. Окей, в следующее воскресение садишься, все, у тебя уже наушники приготовлены и тут оказывается, что ты дольше 20 минут работать не можешь.&lt;/p&gt;
+
+  &lt;p&gt;Я не могу работать дольше 25 минут. Мне нужно вскочить и бегать. Или дольше часа. Мое рабочее время — час. Вот это прям максимум. Можно выбить на задачу день, но я все равно буду работать час, потому что больше не могу на эту тему работать. Нужно переключаться.&lt;/p&gt;
+
+  &lt;p&gt;И я понимаю, что просто так ничего не пишется. Пол года прошло, а материал не собран. Навыка нет, как его получить? И тогда я придумываю прием. Прямо можно придумать, подсмотреть у кого-то, украсть, прочитать. Не важно, главное, что вам нужны приемы, которые работают с вами. Со мной в деле записывания материала сработал один простой, крутой прием.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Правило приемов в том, что они все тупые. Они прямо примитивные, потому что они срабатывают на автоматизме.&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;Прием простой: веди дневник. Теперь мне не нужно думать, что этот материал нужно собрать. Я обложился со всех сторон: я поставил программу на компьютер, поставил программу на телефон. Я перестал записывать какие-то мысли в почту, стал записывать их в эти программы. И спустя неделю оказалось, что я в них пишу вообще все. И таким образом, у меня за месяц все собралось.&lt;/p&gt;
+
+  &lt;blockquote&gt;
+    &lt;p&gt;— Как собрать материал?&lt;br /&gt;
+— Веди дневник.&lt;/p&gt;
+  &lt;/blockquote&gt;
+
+  &lt;p&gt;На мне это работает, на вас могут работать какие-то другие приемы.&lt;/p&gt;
+
+  &lt;p&gt;Еще один прием. Я начинаю работать и перехожу в возбужденное состояние. Меня прямо захватывает. Я могу сесть программировать что-то на сайте на часочек и обнаружить себя в состоянии полного невменоза через трое суток. Как это происходит? &lt;em&gt;«О, может вот эту процедуру попробовать, там проверить, может вот то, или это, вот еще там пятое»&lt;/em&gt;. Выходные пролетели. И я понимаю, что нихрена не получилось, три дня прошло. А параллельно 50-60-70 дел еще не сделано. Мне нужен какой-то прием, я не могу так программировать. Прием простой:&lt;/p&gt;
+
+  &lt;blockquote&gt;
+    &lt;p&gt;Программируй на бумажке.&lt;/p&gt;
+  &lt;/blockquote&gt;
+
+  &lt;p&gt;Я беру бумажку и пишу, что я должен сделать. Кладу её рядом с собой и то, что в бумажке не написано, я не делаю. Это очень просто, ты сделал и идешь. Это простой прием, именно такие и работают. &lt;a href=&quot;https://ru.wikipedia.org/wiki/Помидор_(метод)&quot;&gt;Помидорный таймер&lt;/a&gt; работает. Вы чувствуете себя измотанным к вечеру?&lt;/p&gt;
+
+  &lt;p&gt;Рассказываю, как работает помидорный таймер. Вы его заводите на 25 минут. Потом он звенит и вы в приказном порядке на 5 минут идете отдыхать. Прям уходите, вам нужно встать и походить. Потом возвращаетесь и следующие 25 минут вы сконцентрированы и понимаете, что вам нужно сделать. Это работает, это очень простой прием. Я занят подбором вот таких приемов. И так как я набит вещами, которые хочу в себе изменить и попробовать изменить в других людях, которые работают со мной, я коллекционирую приемы.&lt;/p&gt;
+
+  &lt;p&gt;Почему они мне нужны? Потому что мое типичное состояние — истерика. Я неуверенная в себе истеричка. Серьезно, вот мне просто надо как-то с этим жить. Мне нужно уметь переводить себя в спокойное состояние. Мне нужны приемы. У меня нет четких знаний, все в какой-то свалке. Представляете, каково работать, когда ты приходишь куда-нибудь, например, и нужно рассказать про закон. Но ты не помнишь, то ли закон &lt;a href=&quot;https://ru.wikipedia.org/wiki/Закон_Фиттса&quot;&gt;Фиттса&lt;/a&gt;, то ли закон Хика… Как с этим жить, что говорить людям?&lt;/p&gt;
+
+  &lt;p&gt;У меня нет памяти. Когда я сажусь и пытаюсь записать, что было со мной вчера — я помню, позавчера — помню, три дня назад — не помню. Мне надо лезть в почту и смотреть, что там было. Меня спасает дневник, потому что я его веду для того, чтобы посмотреть, что три дня назад было. Очень удобно. Что было в январе я вам уже не скажу. Но у меня записано, поэтому скажу.&lt;/p&gt;
+
+  &lt;p&gt;У меня нет никакой привычки к регулярности. Это очень легко проверить. Я делал шрифт, в нем было 7 букв. Все. Он до сих пор не доделан.&lt;/p&gt;
+
+  &lt;p&gt;Я не умею себя заставлять, это очень легко проверить: я смотрел все сезоны игры престолов и доктора хауса. Я посмотрел 7 (!) сезонов «Отчаянных домохозяек». Первые три сезона я думал, что это закончится и все будет хорошо. В седьмом сезоне я понял, что нет, это будет продолжаться постоянно.&lt;/p&gt;
+
+  &lt;p&gt;Мне нужны приемы для того, чтобы добиваться от себя, чтобы я что-то сделал. Пять лет назад я весил больше 120 килограммов и мне нужны были приемы, чтобы сбросить вес. У меня была такая привычка неосознанная: что нужно сделать, чтобы сдать проект? Нужно просто остаться на работе. Если вам дают еще один проект, значит нужно просто еще чуть-чуть остаться на работе. Когда у тебя 3 проекта — у тебя хронический недосып. В какой-то момент я перестал ездить домой, потому что бесполезно: у тебя есть 2 часа на сон плюс час в дороге туда и час обратно. Можно просто оставаться на работе. С тех пор у меня много лет лежит в ящике стола майка, трусы, носки, зубная щётка, паста, шампунь, как напоминание о тех временах. Это то, как я &lt;em&gt;умею&lt;/em&gt; делать дела. Когда у меня было 4 проекта, я думал, что я сойду с ума. Два месяца назад их было 7. Ну как-то так получилось. Как-то получился навык из какого-то приема.&lt;/p&gt;
+
+  &lt;p&gt;Меня очень легко переключить: я не умею концентрироваться. Что должен сделать официант в ресторане, чтобы просто убить разговор? Он должен прийти и сказать: &lt;em&gt;«Ваш чай»&lt;/em&gt;. Все, пиздец, я улетел.&lt;/p&gt;
+
+  &lt;p&gt;Первая реакция на то, что происходит — это хамство и сарказм. Когда я вижу какое-то письмо коллеги, внутри меня загорается фейрверк. Я знаю что ответить, чтобы вся контора получила это письмо и смеялась две минуты. Кроме одного человека.&lt;/p&gt;
+
+  &lt;p&gt;Бороться с этими состояниями помогают очень простые вещи. У кого проблемы с тем, чтобы успокоиться? Две вещи, которые у меня есть сегодня с собой: первая называется клячка, это стерка архитекторская, она не оставляет грифель на бумаге и очень мягкая. Её можно носить с собой, она не портит одежду. И ее можно просто мять.&lt;/p&gt;
+
+  &lt;blockquote&gt;
+    &lt;p&gt;Упражнение выглядит так: нужно соединить большой палец левой руки с указательным пальцем правой, а мизинец левой — с большим правой. Далее переносишь большой палец левой на средний правой, а большой правой — на безымянный левой и так далее.&lt;/p&gt;
+  &lt;/blockquote&gt;
+
+  &lt;p&gt;Второй прием — это упражнение от нейробиологов. Вы берете ставите пальцы вот так и начинаете пальцами спускаться вверх-вниз-вверх-вниз. И если вы так делаете 2 минуты, то вы вынуждены следить только за этим, потому что в этом процессе участвуют обе доли мозга. За две минуты это вас полностью переключает, вы не можете концентрироваться на чем-то другом. Это простейшее упражнение &lt;em&gt;лесенка&lt;/em&gt; служит для того, чтобы захватить ваше внимание и успокоить вас. И вы в какой-то момент становитесь безумно спокойны. Потом это упражнение можно даже в уме делать.&lt;/p&gt;
+
+  &lt;p&gt;Поэтому тысяча писем в инбоксе, куча не сделанных дел — это все про меня. Я вот из этих ребят. И что-то с этим надо делать, как-то двигаться. Еще проблема в том, что все время лодка подтекает, то есть ты все время обнаруживаешь себя в состоянии депрессии. Вот что-то опять случилось, тебе снова надо выныривать… Но двигаться вперед надо даже в этих условия, это все, что у меня есть: подтекающая лодка, внутренняя злость, потеря опоры, неумение заставлять себя. И надо все равно двигаться. И двигаться можно. С помощью приемов.&lt;/p&gt;
+
+  &lt;h2 id=&quot;section-5&quot;&gt;Навыки&lt;/h2&gt;
+  &lt;p&gt;Первый работающий принцип, который нужен, первый инструмент, который должен быть.&lt;/p&gt;
+
+  &lt;h3 id=&quot;section-6&quot;&gt;Применение здравого смысла&lt;/h3&gt;
+
+  &lt;p&gt;Это базис, это то, с чего я начинаю рассказ про навыки.&lt;/p&gt;
+
+  &lt;p&gt;Студия открыла мне работу доказательного подхода. До работы я верил в: энергетическое поле земли; что каждый метр пространства пересекает линия и ни в коем случае нельзя ставить кровать изголовьем в пересечение двух линий; в черных кошек; я заряжал воду в банке перед телевизором.&lt;/p&gt;
+
+  &lt;p&gt;Сейчас я верю только в то, что проходит критический отбор. В то, что можно доказать, а еще важнее, что можно опровергнуть. Если какая-то штука принципиально опровергаема (это называется &lt;a href=&quot;https://ru.wikipedia.org/wiki/Фальсифицируемость&quot;&gt;фальсифицируемость по Карлу Попперу&lt;/a&gt;), это значит, что она верна.&lt;/p&gt;
+
+  &lt;p&gt;Я сижу в кафе. Рядом со мной сидят мальчик и девочка. И девочка задает мальчику вопрос: «А почему теория эволюции существует? Почему инопланетяне не могли заселить землю?» Он говорит: «Ну как, теория эволюции же, это же вещь! Дарвин же умный чувак, он не мог ошибаться.» Я думаю: что ты несешь?! Я понимаю, что столкнулись приверженцы двух религий. Она верит в инопланетян, он верит в естественный отбор. Она задает ему вопрос: «Ну подожди, а вот рыба и птица: они такие разные. Что, серьезно, они произошли из одного источника? Вот смотри, у одной крылья есть, а у другой — плавники!» Он такой: «Ну не знаю…»&lt;/p&gt;
+
+  &lt;p&gt;Вся история в том, что теория эволюции принципиально опровержима. Тысячи научных коллективов по всей планете день и ночь, независимо друг от друга, не сговариваясь, пытаются раскопать все новые и новые факты в своих научных отраслях. В биологии, в физике, в химии, в геологии, в истории. Они лезут в землю, они копают и что-то там находят. И тысячи фактов они предъявляют миру, и мир (другие ученые) начинают ревностно оценивать то, что найдено.&lt;/p&gt;
+
+  &lt;p&gt;Проблема, вся суть в том, что каждый из этих ученых хотел бы, чтобы журнал Time вышел с заголовком: «Теория Дарвина обосралась. Теперь — теория Иванова».&lt;/p&gt;
+
+  &lt;p&gt;В этом суть! Они не настроены любить и верить в нее, они хотят её опровергнуть и тогда научное сообщество будет придумывать другую теорию. И пока все факты, которые люди получают относительно теории эволюции, укладываются в теорию. Они не могут её перешибить. А если что-то противоречит, ученые смотрят и пытаются понять почему: это теория не права или факты не верны. И так складывается, что пока все, вроде бы, ровненько. Если завтра окажется, что есть факты, которые противоречат и их подтвердили независимые группы, тогда ученые соберутся и будут придумывать другую теорию, которая объясняет еще и это.&lt;/p&gt;
+
+  &lt;p&gt;А когда собираются у клиента менеджеры, которые все настроены на то, чтобы только подтверждать, а не опровергать теорию; когда дизайнер говорит: «Я верю, это будет работать» — все, это провал.&lt;/p&gt;
+
+  &lt;p&gt;Дизайнер должен сомневаться, он должен говорить: «Может не будет работать, а может быть будет. Вот у нас есть минусы и вот у нас есть плюсы». И тогда ты можешь с клиентом вести уже другой разговор. Я ему говорю: «А у меня тоже есть теория. Давайте разберем все плюсы и минусы вашего и нашего решения».&lt;/p&gt;
+
+  &lt;p&gt;А сейчас очень часто получается, что дизайнер говорит: «В моем решении только плюсы». Будто весь мир вокруг наполнен таким классным дизайном, да? Не надейся, что все будет хорошо, все будет плохо. Давайте обсудим лучше, где нам не обосраться. Это классная тема, вы сразу становитесь человеком, который готов сравнивать гипотезы, управлять ими.&lt;/p&gt;
+
+  &lt;p&gt;И это то, что я применяю в повседневной жизни. Меня очень интересуют дизайн-эксперименты. Меня очень интересует как доказывать теории, как их проверять.&lt;/p&gt;
+
+  &lt;p&gt;Если кто-то хочет почитать на эту тему, я советую книжку Милграма «Эксперимент в социальной психологии». У него, например, есть предположение, что люди в городе менее открыты, чем люди в селе. Он натыкается в селе, в магазине на продавца. И продавец ему улыбается, как старому знакомому. И тут приходит смущение, он не понимает, говорит: «Я не могу вспомнить, где мы знакомились. Простите, я вас не помню…» И тут начинает смущаться продавец. Он не понимает, почему Милграм подумал, что они знакомы. Оказывается, он просто ведет себя так, как в селе принято.&lt;/p&gt;
+
+  &lt;p&gt;Я как-то раз в Пятигорске был, зашел в подвал, в кафе. Шашлык-машлык. И вижу: люди побросали свои места. Я понял — нашелся брат потерянный. Они сразу стали кричать, освобождать столы, «Щас мы тебя на лучшее место посадим». Ааа, что тут происходит? Что за эмоции? Сижу, ем. Тут следующие пришли ребята, они бросились к ним так же.&lt;/p&gt;
+
+  &lt;p&gt;И вот можно говорить себе: ну, наверно, люди в селе более открыты друг к другу, чем люди в городе. А студенты ему приводят в пример еще парочку других теорий, которые опровергают это предположение. И становится понятно, что на этих голословных утверждениях далеко не уедешь.&lt;/p&gt;
+
+  &lt;p&gt;И тогда они придумывают эксперимент. 13 студентов выходят на улицы, идут по Нью-Йорку и подают прохожим руку для приветствия, улыбаясь. И считают сколько людей пожмут руку. Вот и все, весь эксперимент. Потом они делают то же самое в пригородах. И обнаруживают, что в Нью-Йорке около 70% человек не жмут руку, а в пригороде около 70% — жмут. То есть в 2 раза больше людей в пригороде готовы жать руку незнакомцу, чем в городе. Вот эксперимент, вот он показывает, что да, гипотеза, похоже, верна. Они оставляют ребенка, якобы потерявшегося, и просят помочь ему найти дорогу. В городе этому ребенку помогает меньшее количество людей. Это эксперименты, которые показывают, что все действительно так.&lt;/p&gt;
+
+  &lt;p&gt;И когда дизайнер ко мне приходит, и говорит: «Это должно работать, я в это верю!», — я говорю: «Эээ, погоди. Я очень много видел в жизни такой уверенности, которая ни на чем не базируется».&lt;/p&gt;
+
+  &lt;p&gt;Первое, что я прошу дизайнера в таких случаях, это сделать габаритный макет. Делаешь визитку — вырежи её из бумаги. Делаешь вывеску? Да, напечатай иди и повесь. Когда новый дизайнер берется это делать, я уточняю: «Да, кстати, пожалуйста, давай вот просто для старика, который выжил из ума, сделай сразу в 2 раза больше бумажку. Поноси её просто с собой, на всякий случай. Вот у тебя есть указатель навигационный, сделай такой же, но 2 раза больше, пожалуйста». Он берет его с собой, уходит, возвращается и говорит: «Короче, мы попробовали с ребятами. Вот если вот этот большой вариант сделать в полтора раза больше — будет хорошо».&lt;/p&gt;
+
+  &lt;p&gt;Люди очень часто предполагают ошибочно. И я знаю, что нужно постоянно все примерять. Здравый смысл требует, чтобы вы не верили в вашу теорию сами. Чтобы вы хотели, чтобы она доказала свою жизнеспособность. Чтобы она была принципиально опровергаема. Чтобы вы были готовы к тому, что вы были не правы.&lt;/p&gt;
+
+  &lt;p&gt;Подумайте, что будет, если ваш дизайн, который вы несете, не такой классный. Что вы будете делать тогда?&lt;/p&gt;
+
+  &lt;p&gt;Как проверить сайт или приложение? Дешевое прототипирование, прямо из говна и палок. Делайте какую-то штуку, которую вы можете проверить на людях. Прототип в Axure делается за 2 часа.&lt;/p&gt;
+
+  &lt;p&gt;Постоянно приходят новые технологии, много лет назад дизайнеры приносили какие-нибудь джипеги. И в какой-то момент я говорю: «Ребята, я уже задолбался проверять работает дизайн или нет, когда вы почти все сверстали. У технологов видно, что проблемы начинаются. Давайте-ка пораньше». Они удивились, а как же так, мол? И один говорит: «Я не успеваю тут, короче, давай джипегом?» —«Окошко приема джипегов закрыто», — отвечаю я, — «давай прототип».&lt;/p&gt;
+
+  &lt;p&gt;&lt;em&gt;Дизайнеры иногда что делают? Они джипег вставляют в прототип&lt;/em&gt;.&lt;/p&gt;
+
+  &lt;p&gt;— И чё, ты прототип хочешь?&lt;br /&gt;
+— Да. &lt;br /&gt;
+— Прототип чего? &lt;br /&gt;
+&lt;br /&gt;
+И тут я завелся:&lt;br /&gt;
+&lt;br /&gt;
+— Знаешь, а всего сайта!&lt;br /&gt;
+— А когда хочешь? &lt;br /&gt;
+— Завтра. &lt;br /&gt;&lt;/p&gt;
+
+  &lt;p&gt;И на следующий день он мне приносит прототип всего сайта. Я охренел. Прямо страниц 15-20. И я с тех пор понял, что все, больше меня никто не переубедит. Я говорю людям: «Вот у нас там будет 8 вариантов сценария, пожалуйста, мне 8 прототипов и как можно быстрее». И это работает.&lt;/p&gt;
+
+  &lt;p&gt;Вы приходите к клиенту и говорите: «Мы не уверены. Минусы — вот такие, мы о них подумали. Если вы будете генерировать другой контент, будет жопа. С фотками здесь будет проблема. Мы не знаем этого и того. Но у нас есть способ, как это проверить дешево и быстро. Давайте мы запустим первый кусок, будем проверять второй. И так далее». Люди получают информацию по ходу.&lt;/p&gt;
+
+  &lt;p&gt;Так не бывает, что вы перед походом взяли карту, взяли провизии на 30 человек и сказали: «У нас все получится, у нас все получится». Надели на глаза повязки и пошли: прямо, тут на право, тут сработает у нас меню, идем-идем-идем, и через несколько дней вы в точке. Нет! Кто-нибудь обязательно сломает ногу. Вам нужно уметь реагировать, придумайте систему реагирования.&lt;/p&gt;
+
+  &lt;p&gt;Вы идете и говорите: «Вот эти три вещи мы будем проверять прямо сейчас. Это важно, за это время мы накопим опыт и с вашей командой научимся работать. Вот эти вещи мы проверим дальше и выберем либо их либо не их, пока мы не знаем».&lt;/p&gt;
+
+  &lt;p&gt;Да, это риск, как и любой бизнес. Всегда можно положить деньги на депозит и прогореть и так же может быть с дизайном. История о том, что нужно повышать вероятность успеха. Вы говорите про то, что не на свои дизайн-изыскания тратите время и деньги, а на повышение вероятности успеха клиента.&lt;/p&gt;
+
+  &lt;p&gt;Следующий навык:&lt;/p&gt;
+
+  &lt;h3 id=&quot;section-7&quot;&gt;Просто продолжать&lt;/h3&gt;
+
+  &lt;p&gt;Я сижу на полустанке, перед электричкой в аэропорт. Пишу менеджеру смску, что я куда-то проебал свой заграничный паспорт и поэтому мы никуда с ней сегодня, ни на какую встречу с клиентом не улетим. Толку ехать в аэропорт никакого нет. И она мне пишет: «Просто садись в электричку». Естественно, я в бешенстве: «Как?! Ну да, хорошо, щас я сяду, поеду еще до аэропорта час туда, потом час обратно, конечно!… Сяду, ладно».&lt;/p&gt;
+
+  &lt;p&gt;Сажусь в электричку, приезжаю в аэропорт, встречаюсь с менеджером и оказывается, что между странами действует визовое соглашение и по российскому паспорту тоже можно поехать. Загран не нужен.&lt;/p&gt;
+
+  &lt;p&gt;Я лечу на встречу с клиентом и думаю: «Черт побери, вот у меня же было такое состояние, в котором просто нет смысла продолжать, нет смысла садиться в электричку. Все же ясно». И я ошибался. Я понял, что очень часто меня вот эта штука на тему того, что слишком сложно представить себе все варианты и вообще нет никакого спасения, нужно все слить уже, ничего не получится… Эта история у меня иногда возникает и в этот момент нужно просто продолжать. Просто сесть в электричку и ехать.&lt;/p&gt;
+
+  &lt;p&gt;Это тема, которой люди очень часто страдают. Я рассказываю её на примере толстяков: они предпринимают первую попытку атаки на вес, в бассейн идут, например. И вдруг им там что-то не нравится. И они на несколько лет эту идею забрасывают.&lt;/p&gt;
+
+  &lt;p&gt;Я понял, что секрет в другом. Не подошел один прием — бери другой. Не подошла одна привычка — вырабатывай следующую. Не подошло что-то еще — да просто продолжай и все. Она продолбится, рано или поздно. У тебя не получается на этом проекте — попробуй решать эту же самую проблему на следующем. Все решится. Тебе сейчас кажется, что полная тьма и все плохо — двигай в ту же степь.&lt;/p&gt;
+
+  &lt;p&gt;Иногда я себе говорю: «Да, я столкнулся с непредвиденными препятствиями, очевидно, у меня ничего не получится, жизнь потерпела крах», и тут же отвечаю «Да, но я же знаю, что нужно просто продолжать».&lt;/p&gt;
+
+  &lt;p&gt;Я видел чудесную вещь: как команда, которой дают на задачу 10 месяцев, выполняет её за 11. И я видел как команда, перед которой стояла задача по масштабам года на два или три, сталкивалась с проблемой, что задачу нужно было сделать за месяц.&lt;/p&gt;
+
+  &lt;p&gt;И можно уже не торопиться, ну то есть: «Все понятно, мы не успеем», — я говорю, «Это ясно. Поэтому давайте мы соберемся и просто пойдем в кафе, сядем и подумаем, что мы можем сделать. Сдаваться мы точно не будем». И мы придумали автоматизацию. Начали писать макросы, роботов. А потом оказалось, через месяц, что клиент нашел лазеечку и нам дали еще 2 месяца. А я вижу, пароход уже потихонечку разгоняется, все становится хорошо. И я вижу, что люди по итогам этого проекта получают такие скилы, которых те ребята, не получили бы. У них появилась неимоверно сложная, но очень интересная задача, которая их изменяет. Вы решаете задачу, а задача решает вас. Это просто нужно продолжать для того, чтобы измениться. Потому что это очень интересно: как вы выживете вообще после этого? Что вы сделаете, что позволит вам  успеть вовремя; что позволит вам что-то такое получить от себя.&lt;/p&gt;
+
+  &lt;p&gt;И если понятно, что точно ничего не получится — ищи выход. Придумывай, как распределить время, как раздавать по-другому задачи.  Нужно ввести какой-то новый элемент. Мне кажется, что это очень классно. Почему? Иногда я слышу про то, как человек, попавший в трудные жизненные условия из них выбрался и получил на этом какой-то бонус. Я считаю, что это только так и устроено, если ты научился из ям выкарабкиваться, то дальше, когда из ямы уже выбрался, ты можешь эти навыки применять и уже идти в гору. Уже никаких проблем нет.&lt;/p&gt;
+
+  &lt;p&gt;Я считаю, что когда люди сталкиваются с очень сложной ситуацией — это круто. И будет глупо, если они из нее выберутся и дальше не пойдут вперед с огромной скоростью. Если бы у меня не было лишнего веса, наверно, я никогда и не начал заниматься, я не понимал, что могу что-то изменить в себе. Ну был бы обычный чувак, который не должен себя менять, окей, хорошо. Когда ты вынужден просто продолжать, потом обязательно бывает круто.&lt;/p&gt;
+
+  &lt;p&gt;Следующий навык, очень важный навык:&lt;/p&gt;
+
+  &lt;h3 id=&quot;section-8&quot;&gt;Не строить, а выращивать&lt;/h3&gt;
+
+  &lt;p&gt;Люди собрались, решили, что они построят систему, они строят, система никому не нужна. Ну не пользуются ей люди. Построили, молодцы.&lt;/p&gt;
+
+  &lt;p&gt;Люди собрались и начали выращивать систему. Сделали маленький кусочек, сразу же можно начать самим пользоваться и смотреть как пользуются другие. И в этот момент они понимают, что нужно не прямо переть, а сбоку обойти. Очень много есть примеров бизнеса, в которых второстепенная функция, на которую никто в начале не ставил, стала самой выдающейся. И когда клиент говорит, что мы будем строить, я говорю — давайте мы в эти игры играть не будем.&lt;/p&gt;
+
+  &lt;p&gt;Пример: давайте подпишем сразу же многолетний контракт на очень большую сумму. По сути дела, дизайн-бюро берет эти деньги в долг. Я говорю: «Нет, ребята, подождите. Нам с вами нужно проверить адекватность друг друга. Вы проверяете нашу адекватность и сюрприз: мы проверяем вашу адекватность». Поэтому мы можем заключить какой-то рамочный контракт, я бы хотел, чтобы первую работу мы сделали очень маленькую, очень простую и быструю. Давайте выращивать отношения, а не строить. Начнем и посмотрим, как пойдет. Первый этап, первый запуск — как можно быстрее. Нужно посмотреть, что будет после первого шага. И это спасает от траты огромного количества времени от вот этого «проектирования будущего», как-будто все с хрустальным шаром сидят и видят, что будет. Никто не знает что будет: экономисты не знают, правители не знают, а дизайнер знает.&lt;/p&gt;
+
+  &lt;h3 id=&quot;section-9&quot;&gt;Важность&lt;/h3&gt;
+
+  &lt;p&gt;Я начал наш разговор с того, что вокруг очень много шума. Девочки-баскетболистки на площадке. Им хочется забивать. Они знают, что надо контролировать мяч, но все вокруг отвлекает. Надо победить, процесс идет, как достичь результата - непонятно. Площадка, вокруг куча сигналов, все шумят, очень тяжело сконцентрироваться.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Дизайн&lt;/strong&gt;: миллион несущественных деталей, которые нужно учесть. Клиент возьмет вас за пуговицу и начнет рассказывать все, что знает о задаче.&lt;/p&gt;
+
+  &lt;p&gt;— Куда же вы уходите, давайте мы расскажем вам все! Давайте мы позовем еще людей из транспортного цеха, Виктор вот хотел что-то рассказать.&lt;br /&gt;
+— Ой, вы знаете, у меня так мало времени, материала достаточно, я вот возьму еще с собой презентации. &lt;br /&gt;
+— Куда вам прислать ВСЕ презентации которые у нас есть? Полный набор наших маркетинговых исследований за 2009-2016 год?&lt;br /&gt;
+— Сколько людей будет на встрече?&lt;br /&gt;
+— Двадцать!&lt;br /&gt;&lt;/p&gt;
+
+  &lt;p&gt;В дизайне очень много шума. Все тех-приемы надо знать. Знать таблицу безопасных цветов, нужно обязательно прочесть все, что думают эти ребята, которые думают про параллакс, о тех ребятах, которые не думают про параллакс. Нужно посмотреть и подписаться на сайты, которые рассылают вам рассылку про сайты, которые рассылают рассылку про дизайн и читать это все нужно. Обязательно. Нужно быт как белочка в колесе.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Проекты&lt;/strong&gt;: очень много шума. «А вдруг я это не учел?» Клиент кладет мне на стол ТЗ (показывает пачку сантиметров 5 высотой). «А как вы думаете», — говорю, «менеджер смету должен посчитать? Сумму как назвать? Хорошо, дайте угадаю: вот это ТЗ писали все люди в вашей компании, каждый из них описал то, что считает необходимым». «Как вы угадали?» говорит клиент.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Бюджет&lt;/strong&gt;: очень много шума, много непонятных трат. Деньги улетают сквозь пальцы. Наушники как-бы говорят: «Купи меня! Купи меня!» «Или меня купи!» У кого проблемы с бюджетом, поднимите руки? Кто брал кредит на покрытие кредита? Я брал.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Управление временем&lt;/strong&gt;: та же история. Куча дел, которые нужно сделать срочно, сейчас. Важно. Звонки: «Немедленно отложи все и сделай! Все пропало!»&lt;/p&gt;
+
+  &lt;p&gt;При этом везде неочевидно важное. Девочки-баскетболистки бьют в пол, неочевидно важное: надо не смотреть на мяч. тренер говорит: «Не смотрите на мяч». Девочки продолжают смотреть. Он опять говорит: «Не смотрите на мяч, проклятые дятлы». Они продолжают смотреть. Что делает тренер? Он приносит специальные очки баскетбольные&lt;label for=&quot;mn-figure-1&quot; class=&quot;margin-toggle&quot;&gt; ⊕&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;mn-figure-1&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;&lt;img src=&quot;/images/reading/basket-glass.png&quot; alt=&quot;Детские баскетбольные очки&quot; /&gt;Детские баскетбольные очки.&lt;/span&gt;, для детей, у которых нижняя часть закрашена черным. Говорит: «Играем сегодня в очках».&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Дизайн&lt;/strong&gt;: важное не очевидно. Весь дизайн, который делался, как правило для людей, для тела. Изменится все: появятся новые смартфоны и уйдет дизайн нажимания пальцем на стекло. Точно так же, как ушел дизайн карет. Важно же было, очень важно знать, березовые должны быть штуки в карете или дубовые? Или буковые? Я прямо вижу вот эти рассылки дизайнеров карет, где это обсуждают.&lt;/p&gt;
+
+  &lt;p&gt;Но с тех пор не изменилось одно: не изменилось тело. Это инвариант, который лежит в основе всего. Это важно и не очевидно. Подходишь к дизайнеру и говоришь: «Почитай про внимание! Почитай, как у людей меняется состояние. Почитай, как они нажимают, как они целятся, как они попадают». «Нет, ну чё там… Параллакс вот — это да».&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Проект&lt;/strong&gt;: я говорю клиенту, с этим ТЗ:&lt;br /&gt;
+— Слушай, скажи пожалуйста, а что самое важное в вашем ТЗ?&lt;br /&gt;
+— А мы про это не думали…&lt;/p&gt;
+
+  &lt;p&gt;Иногда он говорит и &lt;em&gt;всё&lt;/em&gt;, но все не бывает важным. Самое важное всегда что-то одно или максимум два.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Бюджет&lt;/strong&gt;: что в бюджете важно? Самая важная вещь в бюджете? Кто не понимает, в чем суть ведения бюджета? Расскажу: я в этом месяце (январь) отложил деньги на новый год, который будет в конце года. Вот и все. Когда мы подойдем к концу года, вы возьмете свою зарплату, а я возьму отложенные денежки. И суть в этом: вы берете и заранее откладываете по статьям, которые у вас  будут, определенные суммы.&lt;/p&gt;
+
+  &lt;p&gt;И что самое важное в бюджете? Самое важное то, что вам, например, нужны джинсы каждые три месяца, а наушники говорят «Бери меня! Бери меня!» И на джинсы вам надо отложить треть в этом месяце. И эта треть постоянно подвергается атаке со стороны  наушников. Атаке со стороны стейка, атаке со стороны дня рождения и еще, и еще. Так вот, самое важное в бюджете, чтобы джинсы произошли. Самые, вроде-бы, не страшные, не важные траты: ну подумаешь, ты отложишь, ничего страшного, потом можно джинсы купить. Нет! Суть бюджета в том, чтобы те статьи бюджета, которые ты считаешь нужными, были в нем. Чтобы бюджет был выполнен весь. Ну, по крайней мере сейчас мне кажется это важным.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Управление временем&lt;/strong&gt;: важное не очевидно. Что важно в управлении временем? Когда тебе все звонят, когда тебя разрывают, когда все срочно надо сделать. Что самое важное там? Ясная голова. Ты должен принимать решения в состоянии ясной головы. Есть ребята, которые работают секретарями. Для них самое важное — моментально отреагировать. Но если вы работаете менеджером сложного проекта, то было бы неплохо, чтобы вы принимали решения в состоянии, в котором вы способны это делать. Именно поэтому вам нужны паузы. И поэтому вам нужно иногда отключать телефон. Так бывает. Я знаю, что вы работаете не на ядерной электростанции. И очень мало бывает случаев, когда ты не  должен получить ответ моментально. Если такое происходит, можно передать на время эту задачу своему коллеге. Письмо всегда может подождать 10 минут. Никто не сдохнет. Когда люди находятся в ситуации, когда кто-то может сдохнуть от того, что письмо подождет 10 минут, они уходят в общую комнату, там уже напряженно за этим вся контора следит, все понимают, что нужно отреагировать очень скоро. Но как правило, письмо может подождать. Но ваше состояние не может подождать, вам нужно себя переключать.&lt;/p&gt;
+
+  &lt;p&gt;Я понял, что моя обязанность писать умные письма, а не моментальные письма. Из того, что человек отправил письмо прямо сейчас, не следует, что он должен получить ответ прямо сейчас. Это нормально.&lt;/p&gt;
+
+  &lt;h3 id=&quot;section-10&quot;&gt;Приемы, которые я применяю для сохранения ясной головы&lt;/h3&gt;
+
+  &lt;p&gt;Я работаю в офисе мало. Потому, что самое непродуктивное время, это время в офисе. Особенно в оупен-спейсе. Потому что люди выбирают: они могут написать письмо или могут сказать: «Эй, Людвиг! Подойди! Вот, слушай еще, не уходи!» Я хожу по студии как футболист по футбольному полю в американском футболе: нужно пересечь хотя-бы черту кафе. Добежать прямо.&lt;/p&gt;
+
+  &lt;p&gt;— Людвиг!!
+—Да-да, напиши письмо лучше.&lt;/p&gt;
+
+  &lt;p&gt;Зачем я говорю писать письмо человеку? Чтобы он сформулировал мысли хотя бы. Потому что я знаю, что когда человек формулирует мысли, то получается точнее понять проблему. Я знаю, что это противнейшее состояние, когда я хочу кому-нибудь позвонить. Когда человек говорит: «Я сейчас не могу писать, давай я тебе лучше позвоню!» — что надо сказать? «Нет! Не надо мне звонить. Напиши письмо». —«Но мне так быстрее!» —«Да я знаю, что тебе быстрее, напиши письмо».&lt;/p&gt;
+
+  &lt;p&gt;Как приучить контору к этому? Можно на всех рявкать, конечно, как мудак, а можно говорить следующий текст. Ты говоришь: «Да, хорошо, созвонимся, но пойми, что сейчас я положу трубку и мне позвонит следущий человек. А так как я ничего не помню, то я моментально забуду все, о чем мы говорили. Поэтому классно, что ты позвонил, но напиши мне письмо».&lt;/p&gt;
+
+  &lt;p&gt;И ты просто говоришь это месяц. Потом смотришь: тебе сегодня никто не позвонил ни разу. Зато пришло 300 писем.&lt;/p&gt;
+&lt;/article&gt;</content><author><name></name></author><category term="reading" /><category term="лекция" /><category term="людвиг" /><summary type="html">Людвиг Быстроновский</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://likewhoa.ru/%7B%22feature%22=%3E%22ludvig-f.jpg%22,%20%22thumb%22=%3E%22formatting/t.jpg%22,%20%22alt%22=%3E%22%D0%9A%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8%20%D0%9B%D1%8E%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%20%D0%91%D1%8B%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%20%D0%B8%20%D0%B2%D0%B0%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%8C%22%7D" /></entry><entry><title type="html">Bass × Chill</title><link href="http://likewhoa.ru/blog/bassxchill/" rel="alternate" type="text/html" title="Bass × Chill" /><published>2015-02-22T06:31:00+06:00</published><updated>2015-02-22T06:31:00+06:00</updated><id>http://likewhoa.ru/blog/bassxchill</id><content type="html" xml:base="http://likewhoa.ru/blog/bassxchill/">&lt;aside&gt;
+&lt;h1&gt;Bass × Chill&lt;/h1&gt;
+&lt;span class=&quot;icon&quot;&gt;&amp;nbsp;&lt;/span&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;60&quot; src=&quot;https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;mini=1&amp;light=1&amp;hide_artwork=1&amp;feed=%2Foffbase%2Fbass-x-chill%2F&quot; frameborder=&quot;0&quot; &gt;&lt;/iframe&gt;
+&lt;/aside&gt;</content><author><name></name></author><category term="blog" /><summary type="html">Bass × Chill &amp;nbsp;</summary></entry><entry><title type="html">Конкуренция</title><link href="http://likewhoa.ru/blog/konkurenciya/" rel="alternate" type="text/html" title="Конкуренция" /><published>2014-10-08T23:12:00+07:00</published><updated>2014-10-08T23:12:00+07:00</updated><id>http://likewhoa.ru/blog/konkurenciya</id><content type="html" xml:base="http://likewhoa.ru/blog/konkurenciya/">&lt;aside&gt;
+&lt;h1&gt;Конкуренция&lt;/h1&gt;
+&lt;span class=&quot;icon&quot;&gt;&amp;nbsp;&lt;/span&gt;
+&lt;p&gt;Довольно забавно, недавно с другом разговаривал на тему разного подхода к сервису у нас и в других странах, в частности, в Европе и США.&lt;/p&gt;
+&lt;p&gt;Основная, в общем-то мысль, сводилась к тому, что американская фирма из сферы обслуживания (за исключением некоторых зажравшихся гигантов, типа авиакомпаний), если клиент не получает услуг ожидавшегося качества, независимо от того, по каким причинам это произошло, начинает его вылизывать до тех пор, пока он не оказывается полностью и окончательно удовлетворен.&lt;/p&gt;
+&lt;p&gt;Наша же фирма, если предпринимает какие-то шаги навстречу клиенту, считает, что после этого требовать чего-то еще это полная наглость, потому что и так уже прогнулись и он хам жадный.&lt;/p&gt;
+&lt;p&gt;Мораль, впрочем, под все это подводить я не буду. В Америке такая система сложилась благодаря жесткой конкуренции, иначе дела вести нельзя, потому что сожрут те, кому не в лом стандартизировать качество, а если не вышло — лизать клиенту зад до полного зеркального блеска. Хотя, может быть, дело отчасти и в хитром менталитете. А может тут есть связь — менталитет сформировался из-за конкуренции.&lt;/p&gt;
+&lt;p&gt;Но факт есть факт. Разница наблюдается.&lt;/p&gt;
+&lt;/aside&gt;</content><author><name></name></author><category term="blog" /><category term="бизнес" /><category term="конкуренция" /><category term="отношение" /><summary type="html">Конкуренция &amp;nbsp; Довольно забавно, недавно с другом разговаривал на тему разного подхода к сервису у нас и в других странах, в частности, в Европе и США. Основная, в общем-то мысль, сводилась к тому, что американская фирма из сферы обслуживания (за исключением некоторых зажравшихся гигантов, типа авиакомпаний), если клиент не получает услуг ожидавшегося качества, независимо от того, по каким причинам это произошло, начинает его вылизывать до тех пор, пока он не оказывается полностью и окончательно удовлетворен. Наша же фирма, если предпринимает какие-то шаги навстречу клиенту, считает, что после этого требовать чего-то еще это полная наглость, потому что и так уже прогнулись и он хам жадный. Мораль, впрочем, под все это подводить я не буду. В Америке такая система сложилась благодаря жесткой конкуренции, иначе дела вести нельзя, потому что сожрут те, кому не в лом стандартизировать качество, а если не вышло — лизать клиенту зад до полного зеркального блеска. Хотя, может быть, дело отчасти и в хитром менталитете. А может тут есть связь — менталитет сформировался из-за конкуренции. Но факт есть факт. Разница наблюдается.</summary></entry><entry><title type="html">Размер экрана</title><link href="http://likewhoa.ru/blog/razmer-ekrana/" rel="alternate" type="text/html" title="Размер экрана" /><published>2014-10-07T07:53:00+07:00</published><updated>2014-10-07T07:53:00+07:00</updated><id>http://likewhoa.ru/blog/razmer-ekrana</id><content type="html" xml:base="http://likewhoa.ru/blog/razmer-ekrana/">&lt;aside&gt;
+&lt;h1&gt;Размер экрана&lt;/h1&gt;
+&lt;span class=&quot;icon&quot;&gt;&amp;nbsp;&lt;/span&gt;
+
+
+&lt;p class=&quot;subtitle&quot;&gt;Большие экраны, определённо, позволяют чувствовать себя комфортнее, дают чувство полного контроля на всеми процессами. День, когда у меня появился 19” MVA монитор, я помню до сих пор.&lt;/p&gt;
+
+&lt;p&gt;Это был мощнейший прорыв. Переход на 27″ с соотношением сторон 16:9 был не менее грандиозен. Но прогресс диагонали на этом остановился. К тому моменту мне нужно было обновить компьютер и я сделал вторую попытку перейти на ноутбук. Семнадцать дюймов диагонали выбранного сони казались чудовищно тесными, но вариантов не было и, на удивление, за неделю я полностью адаптировался. Мысли подключить внешний монитор посещали все реже.&lt;/p&gt;
+
+&lt;img src=&quot;/images/blog/screen-size/sony-vpcej.png&quot; alt=&quot;Мой предыдущий ноутбук — Sony Vaio VPCEJ&quot; data-action=&quot;zoom&quot;&gt;
+
+&lt;p&gt;За 3 года пользования ноутом эта привычка только укрепилась, стационарный компьютер переехал к родителям, относительно частые и продолжительные поездки тоже сыграли свою роль.&lt;/p&gt;
+&lt;p&gt;Все же от ряда привычек пришлось отказаться: исчезли вереницы панелей в фотошопе, пришлось чаще пользоваться шорткатами для их скрытия и отображения. Но за счет того, что внимание фокусировалось более акцентированно, глаз ни на что лишнее не натыкался — скорость работы вовсе не упала.&lt;/p&gt;
+&lt;p&gt;Необходимость апгрейда назревала вновь и мысль о переходе на 15″ макбук не давала покоя. 15 дюймов казалось уж вовсе ничтожной диагональю для ежедневной работы с графикой. Стационарные варианты отпадали сразу, ездить я стал только чаще. По отзывам понять было сложно, ровно половине 15 дюймов было достаточно, другой — категорически нет.&lt;/p&gt;
+&lt;p&gt;Не знаю, что сыграло большую роль — ретина экран или более логичный менеджмент окон в OS X, но переход 17″ на 15″ дался даже проще, чем с 27″ на 17″. В фактическом разрешении экрана я только выиграл: в нативном режиме на 15″ MacBook Pro с ретина-дисплеем размер экрана 1440×900, по мне эту крупновато, поэтому я работаю в масштабированном режиме 1680×1050.&lt;/p&gt;
+
+&lt;img src=&quot;/images/blog/screen-size/photoshop-window.png&quot; alt=&quot;Рабочее окно Photoshop&quot; data-action=&quot;zoom&quot;&gt;
+
+&lt;p&gt;Этого вполне хватает, внешний монитор так и стоит без дела. Единтвенное, для чего иногда его подключаю — проверить графику на обычном экране, не ретине.&lt;/p&gt;
+&lt;/aside&gt;</content><author><name></name></author><category term="blog" /><category term="мак" /><category term="лайфстайл" /><category term="экран" /><category term="монитор" /><summary type="html">Размер экрана &amp;nbsp;</summary></entry></feed>

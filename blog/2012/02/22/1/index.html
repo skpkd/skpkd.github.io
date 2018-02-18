@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Интерактивная визуализация Первой Прелюдии Баха</title>
+    <meta name="description" content="Визуализация первой Прелюдии из Сюиты для виолончели Баха. Что если поменять местами отображение нот и струн, описывая формулами длину и высоту ноты.">
+    <meta name="keywords" content="музыка, визуализация, эксперимент">
+    <link rel="canonical" href="http://likewhoa.ru/blog/2012/02/22/1/">
+    <link rel="alternate" type="application/rss+xml" title="Likewhoa" href="/feed.xml" />
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:700&amp;subset=cyrillic" rel="stylesheet">
+    <!-- google search console -->
+    <meta name="google-site-verification" content="FpxZXaSmPze2lNe7uty69AA9cZZT6meINY4n2VCDZCg" />
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/static/style.css?201802181528" type="text/css">
+
+    <!-- Open Graph -->
+    <meta property="og:locale" content="ru">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Интерактивная визуализация Первой Прелюдии Баха">
+    <meta property="og:description" content="Картинки и тексты.">
+    <meta property="og:url" content="http://likewhoa.ru/blog/2012/02/22/1/">
+    <meta property="og:site_name" content="Likewhoa">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Интерактивная визуализация Первой Прелюдии Баха" />
+    <meta name="twitter:description" content="Визуализация первой Прелюдии из Сюиты для виолончели Баха. Что если поменять местами отображение нот и струн, описывая формулами длину и высоту ноты." />
+    <meta name="twitter:url" content="http://likewhoa.ru/blog/2012/02/22/1/" />
+    
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+
+
+    <!-- Icons -->
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=YAo5ogjjko">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=YAo5ogjjko">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=YAo5ogjjko">
+<link rel="manifest" href="/site.webmanifest?v=YAo5ogjjko">
+<link rel="mask-icon" href="/safari-pinned-tab.svg?v=YAo5ogjjko" color="#5bbad5">
+<link rel="shortcut icon" href="/favicon.ico?v=YAo5ogjjko">
+<meta name="msapplication-TileColor" content="#000000">
+<meta name="theme-color" content="#ffffff">
+</head>
+
+<body class="site animated fade-in-down">
+<aside>
+<h1>Интерактивная визуализация Первой Прелюдии Баха</h1>
+<span class="icon">&nbsp;</span>
+
+
+<p>Александр Чен, тот самый, который впечатлил зрителей на Music Hack Day своим <a href="http://vimeo.com/19904802">Stringer</a> вновь удивляет своими достижениями в визуализации. Его новое творение — это <a href="http://baroque.me/">визуализация Первой Прелюдии Баха</a>, сделанная в браузере (но есть и интерактивная оффлайн версия) при помощи HTML5. Если вы знаете нотную грамоту — можете даже проверить себя, но даже если нет — это стоит увидеть, завораживающее зрелище.</p>
+
+<p>Вот что говорит автор по поводу этого:</p>
+
+<blockquote>baroque.me визуализирует первую из шести Прелюдий из Сюиты для виолончели Баха. Идея довольно проста: что если поменять местами отображение нот и струн, описывая формулами длину и высоту ноты. С этой точки зрения проект открывает более глубокую, базовую структуру музыки. baroque.me создан при помощи HTML5 Canvas, Javascript, SoundManager.</blockquote>
+
+<p>Почему вы остановились именно на этом произведении? И как именно описали математическую модель визуализации, то есть, чем определяется количество точек, расстояние между струнами и их длина?</p>
+<dl>
+	<dt>Алекс</dt>
+	<dd>Да ничего особенного, просто слушал однажды вступление в сюитам, и то место, где мелодяи повторяется дважды, оно прозвучало словно вызов. Просто картинка готовая в голове возникла. Я начал развивать эту идею, надо заметить, найти обоснованное соотношение длинны струн было непросто. Я понял, что могу получить всю хроматическую гамму используя две неравных части, 2/3 и 1/2. Они соответствуют пятой и октавному интервалу, это, кстати, называют <a href="http://ru.wikipedia.org/wiki/Пифагорейский_строй">Пифагорейский строй</a>.</dd>
+
+
+
+<p>Были еще какие-то способы решить эту задачу?</p>
+
+<dt>Алекс</dt>
+<dd>На самом деле нет, я сразу пошел по нужному пути, ну разве что в синхронизации точек были некоторые проблемы.</dd>
+
+<p>Как считаешь, это как-то повлияло на видение музыки?</p>
+
+<dt>Алекс</dt>
+<dd>Не все замечают, что визуализация музыки сегодня — достаточно распространенное явление. И, как правило, все они плоские, очень линейные. Компьютерные стулии с их кирпичиками нотных станов, Guitar Hero, все они построены по одному принципу. Независимо от результата, визуализация очень важна в любом виде, не меньше, чем визуализайция слов, которой являются книги. В данном случая я просто решил попробовать что-то новое. Это не только интересное занятие для исполнителя, но и для зрителя, это почти что магия — когда едва заметные движения пальцев не только слышны благодаря инструменту, но и вливаются буйным потоком света через проектор.</dd>
+
+</dl>
+
+<p>Кстати говоря, визуализация первой прелюдии — не первая, как не странно. Ниже на картинке еще одна, уже не компьютерная модель этого произведения. Вот как автор (George Showman) описывает произведение: <blockquote>Эта модель — отношение движений правой и левой руки когда я играл на виолончели. Движения вверх-вниз соотнесены перемещения левой руки, а вправо-влево — левой. По сути дела я работал плоттером!</blockquote></p>
+
+<img src="/images/blog/bachdrawing.jpg" alt="Интерактивная визуализация первой прелюдии Баха">
+
+<p>Cравните, насколько отличаются эти две попытки, фактически, попытаться остановить музыку.</p>
+
+</aside>
+<div class="navline">
+<article class="flex-menu ">
+
+  <div class="bread">
+  <ol class="bread-list">
+    <li class="home"><a href="/">Главная</a></li>
+    <li>Интерактивная визуализация Первой Прелюдии Баха</li>
+  </ol>
+</div>
+
+<div><form class="search-container" action="https://www.google.com/search" method="GET">
+  <input id="search-box" type="text" class="search-box" name="q" />
+  <label for="search-box"><span class="search-icon"><svg xmlns="https://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><path stroke="none" fill-rule="inherit" clip-rule="evenodd" d="M16 14.5l-4.399-4.399a6.212 6.212 0 0 0 1.148-3.602 6.25 6.25 0 1 0-12.5 0 6.25 6.25 0 0 0 6.251 6.25 6.212 6.212 0 0 0 3.602-1.148L14.5 16l1.5-1.5zM1.25 6.501a5.251 5.251 0 1 1 10.502 0 5.251 5.251 0 0 1-10.502 0z"></path></svg></span></label>
+  <!-- <input type="submit" id="search-submit" /> -->
+  <input type="hidden" name="sitesearch" value="likewhoa.ru">
+</form></div>
+
+<div class="modal">
+  <a class="button" href="#0">Подписаться</a>
+</div>
+
+</article>
+</div>
+
+<!-- modal subscribe -->
+
+  <div class="cd-modal"> <!-- this is the entire modal form, including the background -->
+    <div class="cd-modal-container"> <!-- this is the container wrapper -->
+          <h3>Подписка на блог</h3>Через <a href="http://likewhoa.ru/feed.xml">RSS</a> и <a href="t.me/likewhoa">телеграм</a>
+          <!-- <a href="#0" class="close-modal">Close</a> -->
+    </div> <!-- cd-user-modal-container -->
+  </div> <!-- cd-user-modal -->
+  <script src="/static/index.js"></script>
+  <script src="/static/zoom.js"></script>
+  <script src="/static/jquery.fitvids.js"></script>
+  <script src="/static/fotorama.js"></script>
+
+<!-- google counter -->
+  <script type="text/javascript">
+  
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-26451647-3']);
+    _gaq.push(['_trackPageview']);
+  
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  
+  </script>
+<!-- end google counter -->
+<!-- Yandex.Metrika counter --> <script type="text/javascript" > (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter11453989 = new Ya.Metrika2({ id:11453989, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/tag.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks2"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/11453989" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+</body>
+</html>
